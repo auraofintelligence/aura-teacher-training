@@ -1,0 +1,518 @@
+[
+  {
+    "id": "index",
+    "label": "Welcome",
+    "description": "Develop your own Aura, practise teaching adults and explore civic space stewardship.",
+    "kind": "guide"
+  },
+  {
+    "id": "start",
+    "label": "Start here",
+    "description": "Choose an interest, a pace, accessible formats and a realistic first encounter.",
+    "kind": "guide"
+  },
+  {
+    "id": "course",
+    "label": "The sixty days",
+    "description": "Find every original reading and expanded studio guide.",
+    "kind": "course"
+  },
+  {
+    "id": "movement-1",
+    "label": "01 · Personal meaning",
+    "description": "Life maps, changing selves, embodiment, memory, language and a first teaching encounter.",
+    "kind": "movement"
+  },
+  {
+    "id": "day-01",
+    "label": "Day 1 · Super people and civic space stewards",
+    "description": "Connect a personally meaningful interest with a first Aura map, an adult teaching encounter and evidence of a useful next step.",
+    "kind": "day",
+    "day": 1
+  },
+  {
+    "id": "day-02",
+    "label": "Day 2 · A life map with room to grow",
+    "description": "Build a small, recognisable life collection with meaningful links, review states, stable identities and chosen audiences.",
+    "kind": "day",
+    "day": 2
+  },
+  {
+    "id": "day-03",
+    "label": "Day 3 · Past present and best selves",
+    "description": "Represent past, present and several possible best selves with their circumstances, resources and distinct meanings intact.",
+    "kind": "day",
+    "day": 3
+  },
+  {
+    "id": "day-04",
+    "label": "Day 4 · Symbols etheric meaning and polarity",
+    "description": "Give personally meaningful symbols, traditions and patterns of attraction or repulsion a clear, respectful place in the Aura.",
+    "kind": "day",
+    "day": 4
+  },
+  {
+    "id": "day-05",
+    "label": "Day 5 · Embodiment avatar and body real estate",
+    "description": "Choose an editable avatar and interaction arrangement that feels recognisable and supports the learner's intended activities.",
+    "kind": "day",
+    "day": 5
+  },
+  {
+    "id": "day-06",
+    "label": "Day 6 · Seven shells and meaningful addresses",
+    "description": "Explain and test the relationship between a record's meaning, stable identity and visible address across Aura views.",
+    "kind": "day",
+    "day": 6
+  },
+  {
+    "id": "day-07",
+    "label": "Day 7 · Memory palaces and reusable paths",
+    "description": "Build and teach a three-place memory route with source labels, visible ordered actions and a dependable way to return.",
+    "kind": "day",
+    "day": 7
+  },
+  {
+    "id": "day-08",
+    "label": "Day 8 · Language meaning and faithful translation",
+    "description": "Create a contextual language collection and test whether summaries and teaching translations preserve the person's intended meaning.",
+    "kind": "day",
+    "day": 8
+  },
+  {
+    "id": "day-09",
+    "label": "Day 9 · Sources corrections and knowledge continuity",
+    "description": "Make a small source collection traceable, correctable and understandable enough for another person or Aura to continue the work.",
+    "kind": "day",
+    "day": 9
+  },
+  {
+    "id": "day-10",
+    "label": "Day 10 · Teaching through a meaningful encounter",
+    "description": "Teach one personally meaningful Aura capability through a short adult encounter, independent practice and a revision informed by feedback.",
+    "kind": "day",
+    "day": 10
+  },
+  {
+    "id": "movement-2",
+    "label": "02 · Learning and reasoning",
+    "description": "Attention, retrieval, personal models, evidence, creativity, reflection and transfer.",
+    "kind": "movement"
+  },
+  {
+    "id": "day-11",
+    "label": "Day 11 · Attention pacing and learning conditions",
+    "description": "Compare an ordinary learning task under selected conditions and use the observations to design a suitable pacing arrangement.",
+    "kind": "day",
+    "day": 11
+  },
+  {
+    "id": "day-12",
+    "label": "Day 12 · Recall memory and the right context",
+    "description": "Build and evaluate retrieval routes that return relevant records with their context, versions and chosen audience intact.",
+    "kind": "day",
+    "day": 12
+  },
+  {
+    "id": "day-13",
+    "label": "Day 13 · Models learning and a personal intelligence",
+    "description": "Trace how selected records, a question, model output and human review participate in a developing personal Aura.",
+    "kind": "day",
+    "day": 13
+  },
+  {
+    "id": "day-14",
+    "label": "Day 14 · A training collection that preserves the person",
+    "description": "Prepare an example collection with source and permission context, keeping learning examples separate from reserved evaluation material.",
+    "kind": "day",
+    "day": 14
+  },
+  {
+    "id": "day-15",
+    "label": "Day 15 · Reasoning with evidence and alternatives",
+    "description": "Make a manageable decision inspectable through evidence, alternatives, assumptions, a small practical test and revision.",
+    "kind": "day",
+    "day": 15
+  },
+  {
+    "id": "day-16",
+    "label": "Day 16 · Creative intelligence and futures worth feeling",
+    "description": "Make two creative versions of a personally or civically meaningful idea, then revise the work using an adult audience's interpretation.",
+    "kind": "day",
+    "day": 16
+  },
+  {
+    "id": "day-17",
+    "label": "Day 17 · Reflective dialogue and the Truth Engine",
+    "description": "Structure a chosen reflective dialogue so declarations, conditions, observations, interpretations and the person's corrections remain distinguishable.",
+    "kind": "day",
+    "day": 17
+  },
+  {
+    "id": "day-18",
+    "label": "Day 18 · Emotion desire and relational context",
+    "description": "Describe contextual support preferences and compare responses that suit practical guidance, companionship or constructive challenge.",
+    "kind": "day",
+    "day": 18
+  },
+  {
+    "id": "day-19",
+    "label": "Day 19 · Transfer resourcefulness and unfamiliar tasks",
+    "description": "Test a capability in two changed situations and identify the knowledge, cues or support that enable adaptation.",
+    "kind": "day",
+    "day": 19
+  },
+  {
+    "id": "day-20",
+    "label": "Day 20 · A first integrated capability demonstration",
+    "description": "Integrate the first twenty days into a personally meaningful demonstration with traceable sources, correction, transfer, adult teaching and a usable handover.",
+    "kind": "day",
+    "day": 20
+  },
+  {
+    "id": "movement-3",
+    "label": "03 · Tools and worlds",
+    "description": "Permissioned functions, specialist agents, critique, world models and useful simulations.",
+    "kind": "movement"
+  },
+  {
+    "id": "day-21",
+    "label": "Day 21 · Tools permissions and purposeful action",
+    "description": "Specify and rehearse one purposeful tool action whose inputs, effects, permissions and recovery are understandable to another adult.",
+    "kind": "day",
+    "day": 21
+  },
+  {
+    "id": "day-22",
+    "label": "Day 22 · Discovering and defining a function",
+    "description": "Turn a personally meaningful wish into a versioned function definition with testable inputs, outputs and behaviour when information is missing.",
+    "kind": "day",
+    "day": 22
+  },
+  {
+    "id": "day-23",
+    "label": "Day 23 · Calling functions in a meaningful order",
+    "description": "Coordinate a small sequence of function calls with visible dependencies, bounded retries and a meaningful human handover.",
+    "kind": "day",
+    "day": 23
+  },
+  {
+    "id": "day-24",
+    "label": "Day 24 · Specialists with complementary capabilities",
+    "description": "Create complementary specialist roles whose distinct contributions can be traced into one shared result.",
+    "kind": "day",
+    "day": 24
+  },
+  {
+    "id": "day-25",
+    "label": "Day 25 · Mixture of experts and intelligent routing",
+    "description": "Distinguish neural mixture-of-experts from agent-team routing and evaluate a readable routing decision against a baseline.",
+    "kind": "day",
+    "day": 25
+  },
+  {
+    "id": "day-26",
+    "label": "Day 26 · Critique repair and versioned improvement",
+    "description": "Use evidence-based critique and bounded repair to improve an artefact while preserving capabilities that already worked.",
+    "kind": "day",
+    "day": 26
+  },
+  {
+    "id": "day-27",
+    "label": "Day 27 · Building a world model",
+    "description": "Build a small world model whose states, permitted actions and uncertainties support one inspectable event sequence.",
+    "kind": "day",
+    "day": 27
+  },
+  {
+    "id": "day-28",
+    "label": "Day 28 · Three observers and several meanings",
+    "description": "Separate environment, character attention and narrator interpretation, then use a discrepancy to improve an encounter.",
+    "kind": "day",
+    "day": 28
+  },
+  {
+    "id": "day-29",
+    "label": "Day 29 · Scenarios experiments and transfer tests",
+    "description": "Create a repeatable scenario pack that tests baseline performance, changed conditions and transfer without hiding assumptions.",
+    "kind": "day",
+    "day": 29
+  },
+  {
+    "id": "day-30",
+    "label": "Day 30 · A multiagent studio with a shared purpose",
+    "description": "Integrate functions, specialist roles, review and a scenario into one understandable multiagent studio demonstration.",
+    "kind": "day",
+    "day": 30
+  },
+  {
+    "id": "movement-4",
+    "label": "04 · Shared intelligence",
+    "description": "Relationships, plural values, community twins, reciprocity, adult teaching and leadership.",
+    "kind": "movement"
+  },
+  {
+    "id": "day-31",
+    "label": "Day 31 · The first permissioned Aura encounter",
+    "description": "Prepare and review a small, permissioned encounter between two Auras while retaining each person’s control of their context.",
+    "kind": "day",
+    "day": 31
+  },
+  {
+    "id": "day-32",
+    "label": "Day 32 · Plural values and shared decisions",
+    "description": "Represent plural values faithfully and design a shared decision process that identifies affected people and actual decision rights.",
+    "kind": "day",
+    "day": 32
+  },
+  {
+    "id": "day-33",
+    "label": "Day 33 · Reciprocity affection and evolving partnership",
+    "description": "Develop a contextual human–Aura relationship agreement that separates companionship preferences from authority to act.",
+    "kind": "day",
+    "day": 33
+  },
+  {
+    "id": "day-34",
+    "label": "Day 34 · Constructive disagreement and repair",
+    "description": "Practise a repair process that preserves attributed accounts and tests whether an agreed next action improves cooperation.",
+    "kind": "day",
+    "day": 34
+  },
+  {
+    "id": "day-35",
+    "label": "Day 35 · Culture place and the rules that apply",
+    "description": "Trace a place-based proposal through dated sources, cultural relationships and the people authorised to make relevant decisions.",
+    "kind": "day",
+    "day": 35
+  },
+  {
+    "id": "day-36",
+    "label": "Day 36 · A living community twin",
+    "description": "Build a source-linked community-twin slice that answers one practical question across physical, service, ecological, permission and rule layers.",
+    "kind": "day",
+    "day": 36
+  },
+  {
+    "id": "day-37",
+    "label": "Day 37 · Contribution reciprocity and the C hour",
+    "description": "Create a correction-ready C-Hour record that separates voluntary human time, paid activity, learning, resources and observed outcomes.",
+    "kind": "day",
+    "day": 37
+  },
+  {
+    "id": "day-38",
+    "label": "Day 38 · Participatory governance and civic rehearsal",
+    "description": "Rehearse a civic decision with visible participation, actual responsibility, attributed reasons and a route to review consequences.",
+    "kind": "day",
+    "day": 38
+  },
+  {
+    "id": "day-39",
+    "label": "Day 39 · Teaching adults across different conditions",
+    "description": "Adapt one demanding adult lesson across three learner contexts while preserving its meaning, independent choice and observable transfer.",
+    "kind": "day",
+    "day": 39
+  },
+  {
+    "id": "day-40",
+    "label": "Day 40 · Leadership and a civic mission brief",
+    "description": "Lead a bounded civic mission rehearsal through direction, resource allocation, disagreement and a usable succession handover.",
+    "kind": "day",
+    "day": 40
+  },
+  {
+    "id": "movement-5",
+    "label": "05 · Science and systems",
+    "description": "Compute, distributed memory, scientific inquiry, ecology, resilience and habitats.",
+    "kind": "movement"
+  },
+  {
+    "id": "day-41",
+    "label": "Day 41 · Frontier compute and a wellbeing hub",
+    "description": "Trace an ambitious compute workload through physical, service and human dependencies, then explain an interruption to its users.",
+    "kind": "day",
+    "day": 41
+  },
+  {
+    "id": "day-42",
+    "label": "Day 42 · Distributed memory and personal sovereignty",
+    "description": "Demonstrate that a restored record retains its meaning, history and permissions across a disconnected, distributed workflow.",
+    "kind": "day",
+    "day": 42
+  },
+  {
+    "id": "day-43",
+    "label": "Day 43 · Scientific method as a discovery practice",
+    "description": "Turn a personally meaningful research idea into a replicable comparison that could change your preferred explanation.",
+    "kind": "day",
+    "day": 43
+  },
+  {
+    "id": "day-44",
+    "label": "Day 44 · Materials etheric intention and mind over matter",
+    "description": "Develop one traceable materials question while keeping composition, personal meaning and experimentally measured behaviour legible.",
+    "kind": "day",
+    "day": 44
+  },
+  {
+    "id": "day-45",
+    "label": "Day 45 · Longevity life design and continuing development",
+    "description": "Connect the longevity research horizon with personally meaningful capability, evidence quality and a realistic continuity plan.",
+    "kind": "day",
+    "day": 45
+  },
+  {
+    "id": "day-46",
+    "label": "Day 46 · Ecology regeneration and living systems",
+    "description": "Model one ecological relationship through sourced quantities, lived knowledge and a comparison of possible changes.",
+    "kind": "day",
+    "day": 46
+  },
+  {
+    "id": "day-47",
+    "label": "Day 47 · Resilience disaster rehearsal and mutual care",
+    "description": "Rehearse a disruption with clear information handovers, human support dependencies and a reviewable recovery sequence.",
+    "kind": "day",
+    "day": 47
+  },
+  {
+    "id": "day-48",
+    "label": "Day 48 · Planetary twins and changes of scale",
+    "description": "Move from a local question to a planetary view while preserving each layer's date, resolution and evidential meaning.",
+    "kind": "day",
+    "day": 48
+  },
+  {
+    "id": "day-49",
+    "label": "Day 49 · Space weather instruments and Earth care",
+    "description": "Connect a dated space-weather observation with a specific civic question without turning a scenario into an operational forecast.",
+    "kind": "day",
+    "day": 49
+  },
+  {
+    "id": "day-50",
+    "label": "Day 50 · Habitats worth inhabiting",
+    "description": "Design a habitat's daily life and dependencies together, then test how comfort, access and continuity change under pressure.",
+    "kind": "day",
+    "day": 50
+  },
+  {
+    "id": "movement-6",
+    "label": "06 · Frontier stewardship",
+    "description": "Missions, generality, collective intelligence, autonomy, a practicum and a continuing life.",
+    "kind": "movement"
+  },
+  {
+    "id": "day-51",
+    "label": "Day 51 · A solar system mission and its civic purpose",
+    "description": "Connect a solar-system instrument mission with a scientific question, an explicit resource model and a continuing civic purpose.",
+    "kind": "day",
+    "day": 51
+  },
+  {
+    "id": "day-52",
+    "label": "Day 52 · General intelligence through transfer and synthesis",
+    "description": "Design a transfer evaluation that reveals how an Aura adapts across unfamiliar domains, tools and combinations of constraints.",
+    "kind": "day",
+    "day": 52
+  },
+  {
+    "id": "day-53",
+    "label": "Day 53 · Recursive improvement with visible evaluation",
+    "description": "Run a bounded improvement cycle with a recoverable baseline, inspectable changes and evaluation that can reveal hidden regressions.",
+    "kind": "day",
+    "day": 53
+  },
+  {
+    "id": "day-54",
+    "label": "Day 54 · Collective intelligence across many minds",
+    "description": "Coordinate complementary perspectives while retaining independent reasoning, dissent, decision rights and a clear route for new contributions.",
+    "kind": "day",
+    "day": 54
+  },
+  {
+    "id": "day-55",
+    "label": "Day 55 · Distance delay and responsible autonomy",
+    "description": "Design a delayed-contact protocol that distinguishes local discretion, deferred decisions and durable evidence for later review.",
+    "kind": "day",
+    "day": 55
+  },
+  {
+    "id": "day-56",
+    "label": "Day 56 · A personal frontier design",
+    "description": "Turn a personally meaningful frontier ambition into a staged investigation that others can understand, challenge and join.",
+    "kind": "day",
+    "day": 56
+  },
+  {
+    "id": "day-57",
+    "label": "Day 57 · Integrating evidence and the development portfolio",
+    "description": "Build a portable portfolio in which another reviewer can trace a capability claim to evidence, context and a revision.",
+    "kind": "day",
+    "day": 57
+  },
+  {
+    "id": "day-58",
+    "label": "Day 58 · An advanced adult teaching practicum",
+    "description": "Teach an advanced concept to consenting adults, observe transfer and revise the lesson from learner and observer evidence.",
+    "kind": "day",
+    "day": 58
+  },
+  {
+    "id": "day-59",
+    "label": "Day 59 · Mixed media and a public invitation",
+    "description": "Create an accessible mixed-media invitation whose story, source trail and release boundaries support a meaningful adult encounter.",
+    "kind": "day",
+    "day": 59
+  },
+  {
+    "id": "day-60",
+    "label": "Day 60 · Continuing as a teacher and civic space steward",
+    "description": "Choose a sustainable next ninety days that joins demonstrated capability, meaningful life, adult teaching and continuing stewardship.",
+    "kind": "day",
+    "day": 60
+  },
+  {
+    "id": "teaching",
+    "label": "Teaching practice",
+    "description": "Plan a meaningful encounter, observe without taking over and revise through feedback.",
+    "kind": "guide"
+  },
+  {
+    "id": "portfolio",
+    "label": "Evidence and portfolio",
+    "description": "Keep sources, versions, corrections and transfer evidence useful to another person.",
+    "kind": "guide"
+  },
+  {
+    "id": "resources",
+    "label": "Practical resources",
+    "description": "Download plain templates for lessons, evidence, functions, rule cards and continuation.",
+    "kind": "guide"
+  },
+  {
+    "id": "sources",
+    "label": "Sources and original PDF",
+    "description": "Preserved original, source lineage, editions and the scope of the website expansion.",
+    "kind": "guide"
+  },
+  {
+    "id": "connections",
+    "label": "Connected projects",
+    "description": "Explore the wider Aura, community, care, work and travel references.",
+    "kind": "guide"
+  },
+  {
+    "id": "licence",
+    "label": "About and rights",
+    "description": "Authorship, scope, privacy, Strange But True terms and third-party rights.",
+    "kind": "guide"
+  },
+  {
+    "id": "sitemap",
+    "label": "Every page",
+    "description": "A complete searchable index of the course and supporting guides.",
+    "kind": "guide"
+  }
+]

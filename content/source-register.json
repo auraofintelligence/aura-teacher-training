@@ -1,0 +1,45 @@
+{
+  "title": "Aura Teacher Training: 60 Days",
+  "author": "Luke Nathan Hayes",
+  "edition": "14 October 2026",
+  "pages": 60,
+  "file": "documents/Aura_Teacher_Training_60_Days.pdf",
+  "sha256": "13bb521a9f754aedb2cb88c5af981efa778bd7ec844297d92d7256534ea2418c",
+  "links": [
+    {
+      "page": 36,
+      "url": "https://auraofintelligence.github.io/second-island/"
+    },
+    {
+      "page": 36,
+      "url": "https://auraofintelligence.github.io/aura-scan-pipeline/"
+    },
+    {
+      "page": 36,
+      "url": "https://auraofintelligence.github.io/minjerribah-living-twin/"
+    },
+    {
+      "page": 51,
+      "url": "https://auraofintelligence.github.io/virtual-solar-swarm/"
+    },
+    {
+      "page": 55,
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html"
+    },
+    {
+      "page": 55,
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html"
+    },
+    {
+      "page": 55,
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html"
+    },
+    {
+      "page": 55,
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html"
+    }
+  ],
+  "website_expansion_date": "2026-10-28",
+  "original_days_sha256": "4ca7bd13a47ddcc2a348d3277348dbf89f555c8356ff3fbd71dab51bfb5b0fe2",
+  "licence_sha256": "ae8e7c67c9cd1d7b36b6730a02a988bda5530ca48e7f233927fbb043b9f0dbee"
+}

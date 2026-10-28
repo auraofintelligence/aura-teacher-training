@@ -1,0 +1,6 @@
+# Informational project copy; only the host-root robots.txt controls this GitHub Pages hostname.
+# Merge .github/robots-root-snippet.txt while preserving other project policies.
+# Discovery does not grant reuse or training rights.
+User-agent: *
+Allow: /
+Sitemap: https://auraofintelligence.github.io/aura-teacher-training/sitemap.xml

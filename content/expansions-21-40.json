@@ -1,0 +1,522 @@
+[
+  {
+    "day": 21,
+    "objective": "Specify and rehearse one purposeful tool action whose inputs, effects, permissions and recovery are understandable to another adult.",
+    "explanation": "A useful action contract describes a result someone can inspect. 'Make a private draft timetable from these three approved notes' identifies a tractable exchange. Following the source’s tool-and-device work, separate reading information, creating a draft and changing an external setting. Permission for one effect does not authorise the others. This studio can use paper action cards or a local practice folder; it does not assume a functioning Aura tool service is supplied. Assign a human owner who can stop the rehearsal and explain any partial result.",
+    "worked_example": "Illustrative example: Sam wants a four-panel storyboard for an adult garden workshop. The demonstration may read two fictional notes and save storyboard-draft.txt in a temporary practice folder. It may not publish, contact anyone or use personal photographs. If a note lacks its audience, the expected result is an unanswered-question record, rather than an invented audience. Sam reviews the draft before any later use.",
+    "studio_steps": [
+      "Write an action card naming Sam’s purpose, permitted inputs, expected file, audience, time window and responsible reviewer. Include what counts as completion and what remains outside scope.",
+      "Rehearse the complete case using fictional notes. Record the input identifiers, proposed action, review decision, output location and result without claiming that an unimplemented tool actually ran.",
+      "Remove the audience field, then request public posting. Check that each change produces an appropriate question or an out-of-scope response, with the original permission still visible.",
+      "Interrupt a draft halfway through. Identify completed effects, remaining work and the recovery choice: retain the labelled partial draft, restart from the saved inputs or discard the practice copy."
+    ],
+    "teach_back": "Ask a peer to explain what information the action reads, what it changes and who can stop it. Replace any label they cannot translate into an ordinary consequence.",
+    "evidence": [
+      "One action card with separate read, draft and publication boundaries.",
+      "Three labelled scenario traces, including missing information and changed scope.",
+      "A partial-result report identifying the reviewer and a reversible recovery step."
+    ],
+    "transfer_test": "Change the task from a storyboard to a private equipment checklist. Have the peer adapt the action contract and identify the new completion evidence without borrowing the old audience assumptions.",
+    "review_questions": [
+      "Which effect requires permission beyond simply reading the notes?",
+      "What would reveal that the action stopped before completion?",
+      "Does the review evidence show what happened or only what was intended?"
+    ],
+    "access": "Offer a spoken action card, large-print fields or movable paper cards. Keep the same permission decisions while reducing interface complexity and allowing time to consider each effect.",
+    "extension": "Compare a reminder welcomed during workshop preparation with the same reminder during rest. Record the context that changes the learner’s preference rather than creating a universal reminder rule."
+  },
+  {
+    "day": 22,
+    "objective": "Turn a personally meaningful wish into a versioned function definition with testable inputs, outputs and behaviour when information is missing.",
+    "explanation": "Function discovery begins by returning the person’s purpose in their own words. A Function Definer is a proposed role in the source architecture, not authority to decide what the person ought to want. Today’s record makes one capability specific enough for a caller to request tomorrow. Describe input fields before choosing a software format; a schema can initially be a table. Treat factual sources, learner preferences and inferred conveniences differently. The human owner approves the boundary between assistance and a judgement they retain.",
+    "worked_example": "Illustrative example: Priya wants help preparing a short introduction to community sound recording. Her practice function, prepare_session, receives a topic, selected sources, adult audience, time available, access preferences and output format. It returns a draft sequence, one practical task and unresolved questions. It does not enrol learners, assess hearing or grant recording permissions. An absent time budget produces a clarification request.",
+    "studio_steps": [
+      "Hold a discovery conversation and write a one-sentence purpose Priya recognises. Name the decision she wants assistance with and one choice she wants to make herself.",
+      "Create version 0.1 with fields for owner, purpose, inputs, outputs, permitted data, side effects, review, version and evidence. Give every required field an example and a missing-value rule.",
+      "Try a familiar topic, an unfamiliar topic with supplied sources and a conflict between a ten-minute limit and a long activity. Use a paper rehearsal or a small local demonstration.",
+      "Compare results with Priya’s purpose. Revise one ambiguous field, record the reason in version 0.2 and rerun the failed case before describing the definition as improved."
+    ],
+    "teach_back": "Help another adult define a function for their own interest. Explain the service through a worked exchange before introducing schema terminology, then ask them to challenge one boundary.",
+    "evidence": [
+      "Discovery notes preserving the learner’s wording and retained judgement.",
+      "A versioned function record with sample inputs and expected outputs.",
+      "Three test records and a comparison showing the effect of one revision."
+    ],
+    "transfer_test": "Give the function to a peer planning a different creative activity. They must identify which fields still work, which need a new example and where subject-specific permission remains unresolved.",
+    "review_questions": [
+      "Would two callers interpret each required field the same way?",
+      "What does the function return when sources do not support the requested detail?",
+      "Which improvement came from understanding the person rather than adding automation?"
+    ],
+    "access": "Allow the definition to begin as a conversation, illustrated table or card set. A builder can translate the agreed record into code while the owner reviews its examples.",
+    "extension": "Define a deliberately narrower companion function that only checks whether a session brief is complete. Compare its acceptance evidence with that of the drafting function."
+  },
+  {
+    "day": 23,
+    "objective": "Coordinate a small sequence of function calls with visible dependencies, bounded retries and a meaningful human handover.",
+    "explanation": "A caller needs to know what each function consumes, returns and changes. The source’s scenario-based sequencing becomes concrete when one output can be traced into the next input. Distinguish independent work from work waiting on an answer. A failed lookup should not become an invented result simply to keep the sequence moving. Use a diagram, paper rehearsal or local demonstration to represent the proposed caller and label its actual implementation state. The learner approves any outward action.",
+    "worked_example": "Illustrative example: a fictional workshop pack requires an approved room note and an equipment inventory. These two lookups can happen independently. Drafting a session depends on both and on the audience brief. Saving a private draft follows a completeness check; sending invitations is outside scope. When the room note is unavailable, the caller may prepare an explicitly provisional activity outline but must return the unresolved venue question.",
+    "studio_steps": [
+      "Draw five function cards and arrows showing the exact output used by each later step. Mark the two independent lookups and the point at which human review is required.",
+      "Run the complete case, recording call order, input references and returned status. Check that the saved draft corresponds to the same source versions reviewed by the learner.",
+      "Remove the room note and impose a maximum of one retry. Rehearse the partial-result route, recording which sections can proceed and the question handed to the venue organiser.",
+      "Introduce conflicting equipment records. Require the caller to retain both sources and seek clarification, then ask a peer to reconstruct the sequence from its trace."
+    ],
+    "teach_back": "Use a familiar meal or performance preparation to explain dependencies. Have the newcomer rearrange the cards and point to a step that cannot honestly begin yet.",
+    "evidence": [
+      "A call map distinguishing independent work, dependencies and human review.",
+      "Three scenario traces with statuses and a visible retry limit.",
+      "A handover stating completed work, conflicting evidence and the responsible next contact."
+    ],
+    "transfer_test": "Replace the workshop with a short field-observation project and make its weather note unavailable. Ask the peer to design an honest partial result and explain what would justify continuing.",
+    "review_questions": [
+      "Which step would use stale information if the audience changed?",
+      "Can the trace explain why a call occurred at that time?",
+      "Where does the process stop instead of repeatedly asking the same failing service?"
+    ],
+    "access": "Offer numbered cards, a spoken walkthrough and an uncluttered dependency diagram. Let the learner control the pace and keep the current state visible throughout the rehearsal.",
+    "extension": "Compare sequential and independent execution of the two lookups using recorded demonstration timings. Discuss the coordination benefit without presenting simulated timings as a production performance claim."
+  },
+  {
+    "day": 24,
+    "objective": "Create complementary specialist roles whose distinct contributions can be traced into one shared result.",
+    "explanation": "A specialist role needs an actual job, relevant context and a defined handover. Calling three general responses researcher, designer and critic does not establish complementary expertise. The source’s mastermind and agent proposals invite support and challenge around a shared purpose; today tests that arrangement through a modest artefact. Keep human accountability explicit: a named learner owns the brief and approves the final draft. A role may be enacted by people, separate prompts or configured demonstration agents. Record which arrangement was used, since a classroom role-play does not demonstrate deployed multiagent infrastructure.",
+    "worked_example": "Illustrative example: the team drafts an accessible audio-walk introduction for a fictional community garden. The researcher returns a source table and open questions. The designer turns supported facts into a short route and script. The critic checks the script against the source table and access brief. None may infer permission to record residents or publish the walk; the human owner retains that decision.",
+    "studio_steps": [
+      "Write three role cards with purpose, selected inputs, expected output, allowed functions, information boundaries and a handover recipient. Give each role a different acceptance question.",
+      "Rehearse a broad-instruction baseline in which every role receives the same vague request. Preserve duplicated work, unsupported statements and gaps as observations rather than correcting them silently.",
+      "Repeat with the defined cards. Trace one fact from the researcher’s source through the designer’s script to the critic’s check, retaining the source identifier at every handover.",
+      "Exchange designer and critic roles. Supply the context each newly assigned role needs, then compare whether the shared purpose survives and where responsibilities still overlap."
+    ],
+    "teach_back": "Ask a newcomer which role they would approach for a missing source, an awkward explanation or a publication decision. Improve the cards if responsibility cannot be located.",
+    "evidence": [
+      "Three role cards with distinct outputs and permission boundaries.",
+      "Baseline and structured traces showing duplication, gaps and usable handovers.",
+      "One source-to-script-to-review chain and a documented role-exchange finding."
+    ],
+    "transfer_test": "Move the team to a materials-experiment brief. The peer must redefine subject-specific evidence and explain which human expertise is required before any physical experiment could occur.",
+    "review_questions": [
+      "What evidence shows that the specialist contributed a different capability?",
+      "Which context was lost between two roles?",
+      "Who remains answerable when the final draft contains an error?"
+    ],
+    "access": "Use role badges, plain-language cards and one shared task board. Permit oral contributions or annotated examples while keeping attribution and handover fields consistent.",
+    "extension": "Add a teacher role only after identifying a missing teaching output. Compare its contribution with simply asking the designer to write more, and retain the arrangement that serves the brief."
+  },
+  {
+    "day": 25,
+    "objective": "Distinguish neural mixture-of-experts from agent-team routing and evaluate a readable routing decision against a baseline.",
+    "explanation": "Neural mixture-of-experts concerns routing computation among expert components inside a model. Routing between a researcher, designer and reviewer in a demonstration team coordinates separate roles or services. The analogy can prompt useful questions, but operating an agent router does not mean the learner trained or inspected a neural MoE model. Today examines the second arrangement with observable task choices. Define what a suitable route means before looking at results: the right sources, a fitting contribution, proportionate resource use and a clear uncertainty response. A coordinator is responsible for reviewing poor routes and preserving the original task.",
+    "worked_example": "Illustrative example: three fictional requests ask for a caption from an approved source, a comparison of garden-shelter materials and help with 'making the place feel welcoming'. The first may need one drafting role; the second needs source and design contributions; the third needs clarification about the intended experience. These are anticipated routes for a studio exercise, not measured outcomes from a delivered Aura service.",
+    "studio_steps": [
+      "Create six task cards varying domain, complexity and ambiguity. Write expected routing reasons and acceptance evidence, including one task that should return a question before specialist selection.",
+      "Record the general-response baseline for the same cards. Save the original prompt, supplied sources and output so a later comparison uses equivalent information.",
+      "Run readable routing rules or a labelled model-assisted demonstration. Record selected roles, context passed, calls made, elapsed time if actually measured and human corrections.",
+      "Deliberately misroute a mixed-domain task. Inspect the handover, redirect it once and document whether useful information survived without exposing material outside the task’s scope."
+    ],
+    "teach_back": "Give a peer task and role cards, then ask them to explain why a route fits. Use a simple internal-model sketch only to clarify the MoE distinction, not to imply implementation.",
+    "evidence": [
+      "A task set with expected routing reasons and a clarification case.",
+      "Comparable baseline and routed records with implementation status stated.",
+      "A repair trace showing the effect of one deliberately poor route."
+    ],
+    "transfer_test": "Introduce a task combining creative presentation and ecological uncertainty. Ask a new learner to choose a route, identify missing expertise and justify when a human question should come first.",
+    "review_questions": [
+      "Did the route explanation match the calls that actually occurred?",
+      "Which apparent specialist advantage disappeared under the same source conditions?",
+      "What does this exercise establish about agent routing, and not establish about neural MoE?"
+    ],
+    "access": "Provide colour-independent role labels, short task descriptions and a matching-table option. Let a learner explain their selection verbally instead of configuring a router.",
+    "extension": "Set a small call budget and compare routing choices under that constraint. Record reduced coverage or unresolved questions alongside any resource saving."
+  },
+  {
+    "day": 26,
+    "objective": "Use evidence-based critique and bounded repair to improve an artefact while preserving capabilities that already worked.",
+    "explanation": "Useful critique identifies an observed problem, the relevant criterion and a testable change. A confident verdict without a location or example gives the producer little to repair. The source’s supervisor and peer-review loops become accountable when the learner writes acceptance criteria before seeing the output. Reviewers can also be wrong: they may change the purpose, misread a source or reward style over meaning. Keep the original brief, the critique and the revision separately versioned. The human owner decides whether the result is accepted, needs another bounded attempt or should return as unresolved.",
+    "worked_example": "Illustrative example: an audio-walk draft says every garden route is wheelchair accessible, although its fictional source only describes the entrance path. The repair is to narrow the statement and retain an unanswered question about the remaining route. A flawed second critique asks for more promotional certainty. The owner rejects that request because its desired tone would erase the source limitation.",
+    "studio_steps": [
+      "Write a short rubric covering purpose, source fidelity, permissions, usability and one project-specific criterion. Identify what evidence would support each judgement and set a two-revision limit.",
+      "Apply the rubric to a saved draft. Ask the critic to quote or identify the problematic passage, explain its consequence and request a change that remains within the brief.",
+      "Review an intentionally flawed critique, then approve one repair. Save versions before and after, with the accepted request, its author and the reason for declining unsupported demands.",
+      "Rerun a previously successful case as a regression check. End with an acceptance note or a handover that names the unresolved issue rather than declaring every output improved."
+    ],
+    "teach_back": "Guide a peer from a vague comment such as 'this is confusing' to one observed difficulty and a manageable revision. Invite their interpretation before agreeing the change.",
+    "evidence": [
+      "A prewritten rubric and two critiques, including one challenged judgement.",
+      "Versioned output with a source-linked repair and an approval record.",
+      "A regression result and a stopping decision identifying any unresolved issue."
+    ],
+    "transfer_test": "Apply the method to an adult learner’s technical instruction card rather than a creative script. Check whether the peer adapts the criterion without turning feedback into a judgement of the person.",
+    "review_questions": [
+      "Which observation justifies the requested change?",
+      "Did the revision introduce an error in an earlier successful case?",
+      "Was the loop stopped by evidence, its agreed limit or fatigue?"
+    ],
+    "access": "Agree the desired amount and form of feedback. Offer written, spoken or annotated review, one issue at a time, with time for the learner to correct the reviewer.",
+    "extension": "Compare reviews from two roles using the same rubric. Trace disagreements to evidence, interpretation or a different purpose before deciding whether another attempt is useful."
+  },
+  {
+    "day": 27,
+    "objective": "Build a small world model whose states, permitted actions and uncertainties support one inspectable event sequence.",
+    "explanation": "A useful world model is selective. It represents enough of a setting to answer the chosen question and marks what remains unknown. The source separates cognitive, social and physical aspects, but the learner need not build an entire simulated society. Begin with one room, garden or studio and a tractable visitor task. Distinguish an observed feature, a sourced rule, an inference and an invented scene detail. A state change should be inspectable: what was true before, what action occurred and what is recorded afterwards. A model maintainer owns corrections; a scene alone confers no authority to change the represented place.",
+    "worked_example": "Illustrative example: a fictional learning room contains a welcome desk, two shelves, a clear path and a shared tablet. The task is to find an approved beginner guide. A paper model records which shelf holds it and whether the tablet is available. A visitor borrowing the guide changes its availability. The scenario does not claim actual room measurements or access certification.",
+    "studio_steps": [
+      "Choose one visitor question and draw only the features needed to answer it. Create records for layout, resources, actions, people, rules and unresolved details, each with a provenance label.",
+      "Describe a starting state and three events: arrive, request a resource and record the result. Use cards or a small local data demonstration to show each state before and after.",
+      "Make the usual doorway unavailable or move the guide. Test whether the proposed route changes and whether the model asks about an alternative it cannot establish.",
+      "Identify one uncertain detail that matters to the result. Draft a permission-aware observation plan naming who could check it, what would be measured and where a correction would be recorded."
+    ],
+    "teach_back": "Let another adult choose an action in the scene. Ask them which cues supported the choice and which knowledge you assumed they already had.",
+    "evidence": [
+      "A purpose-led model with provenance on facts, assumptions and invented details.",
+      "A three-event record showing state changes and responsible actions.",
+      "A changed-condition result plus one specific observation question."
+    ],
+    "transfer_test": "Rebuild the same resource-finding task in a fictional outdoor learning area. Ask a peer to identify new ecological or temporal conditions that the indoor model did not represent.",
+    "review_questions": [
+      "What information is necessary for this question and what is unnecessary detail?",
+      "Which state changed because of the action?",
+      "What real observation would distinguish two plausible model assumptions?"
+    ],
+    "access": "Provide a tabletop layout, text list or narrated scene alongside any spatial model. XR remains optional; preserve the same states and questions across formats.",
+    "extension": "Introduce opening times or a seasonal condition. Test how the model represents time without treating a past observation as permanently true."
+  },
+  {
+    "day": 28,
+    "objective": "Separate environment, character attention and narrator interpretation, then use a discrepancy to improve an encounter.",
+    "explanation": "The three-observer arrangement in the source offers three perspectives, not three equally complete truths. The world record describes the represented environment, the character record tracks information available or noticed, and a narrator interprets visible reactions. In a simulation the author defines those boundaries; in an actual encounter the learner must not pretend to know private attention or feelings without the person’s account. Today adds that account as a separately attributed response. Keep timestamps and source roles visible. A teacher uses differences to ask a better question, rather than treating the narrator as a detector of hidden motives.",
+    "worked_example": "Illustrative example: a simulated visitor pauses beside a garden map. The environment record includes a guide on a shelf behind them. Their character card says they noticed the map but not the shelf label. One narrator calls the pause confusion; another calls it interest. The fictional character’s supplied explanation is that they were checking the route’s plants. The divergent accounts create a design question without proving either narrator insightful.",
+    "studio_steps": [
+      "Create a short event in yesterday’s model. Prepare separate environment, character and narrator sheets, naming what each observer can access and which details the scenario author supplied.",
+      "Run the event and record observations before sharing the character explanation. Mark statements such as 'looked towards the map' separately from interpretations such as 'seemed uncertain'.",
+      "Compare the records and choose one useful discrepancy. Revise a cue or add an optional explanation, then repeat the encounter with its changed condition clearly recorded.",
+      "Ask a second narrator to describe the same event. Retain both readings and write one neutral question that would let the person explain what the pause meant to them."
+    ],
+    "teach_back": "Present the streams without announcing a preferred interpretation. Ask the peer what each observer could know and which question would reduce uncertainty without steering the answer.",
+    "evidence": [
+      "Three attributed observer streams with their access boundaries stated.",
+      "The character’s separately labelled account and a comparison of divergences.",
+      "One revised encounter and a neutral clarification question."
+    ],
+    "transfer_test": "Use the method on a fictional collaborative design meeting. Have a peer distinguish a missed instruction, a practical obstacle and an unverified emotional interpretation before proposing support.",
+    "review_questions": [
+      "Which statement describes an event and which supplies its meaning?",
+      "What does the character’s account change about the narrator’s conclusion?",
+      "Could the proposed clarification invite a different answer from the one expected?"
+    ],
+    "access": "Use written transcripts, audio description or simple sequence cards. Learners may analyse a fictional scene rather than disclose or re-enact a personal misunderstanding.",
+    "extension": "Compare two interface revisions against the same starting scene. Record whether task completion and the character’s own experience point towards the same improvement."
+  },
+  {
+    "day": 29,
+    "objective": "Create a repeatable scenario pack that tests baseline performance, changed conditions and transfer without hiding assumptions.",
+    "explanation": "An experiment becomes informative when another group can identify the starting conditions, intended result and evidence collected. The source’s simulations connect knowledge with action and review; today makes those relationships repeatable. Choose a question narrow enough that a failure has an interpretable cause. Change one relevant condition before combining several. Keep scenario assumptions separate from trial observations, including when people enact the roles. A successful familiar case does not establish general intelligence. The learner’s claim should match what the pack actually tested, while unexpected behaviour becomes a reason to investigate.",
+    "worked_example": "Illustrative example: the question is whether a demonstration guide helps a newcomer find a beginner resource. Case A uses the familiar room and complete shelf labels. Case B moves the resource. Case C supplies conflicting availability notes and expects a clarification. These are authored test situations. A score sheet might record a found item, a wrong route, an appropriate question and required assistance, without claiming results before trials occur.",
+    "studio_steps": [
+      "Write three scenario cards with starting state, participant information, permitted tools, goal, changed condition, endpoint and review criteria. Identify the source or authored assumption behind every decisive scene detail.",
+      "Run the familiar case and preserve its trace. Use a consistent recording sheet for task outcome, source use, permission decisions, assistance and any recovery or unresolved question.",
+      "Run the moved-resource and conflicting-note cases. Compare the observed behaviour with the expected evidence; record surprises and avoid changing the expected result after seeing an inconvenient outcome.",
+      "Give one card to another pair without extra coaching. Observe where they request missing instructions, revise the pack and distinguish the revised procedure from the first trial."
+    ],
+    "teach_back": "Ask a peer to explain the difference between a scenario variable and a measured result. Let them alter one condition and predict what evidence would reveal successful transfer.",
+    "evidence": [
+      "Three reproducible scenario cards with provenance and stopping criteria.",
+      "Comparable trial records retaining failures, help and recovery.",
+      "Replication feedback and a versioned correction to the test instructions."
+    ],
+    "transfer_test": "Introduce an unfamiliar room layout with the same resource-finding purpose. Check whether the tested method transfers or whether success depended on memorising a particular route.",
+    "review_questions": [
+      "Which change isolates the capability you intended to examine?",
+      "What result would count against your preferred explanation?",
+      "Could another team repeat the trial without the author filling gaps?"
+    ],
+    "access": "Offer role-play, text-only cases or a simple physical model. Keep trial instructions available during the task and record support used instead of treating assistance as an invisible failure.",
+    "extension": "Add a second independent tester and compare their records. Investigate different interpretations of completion before combining any totals."
+  },
+  {
+    "day": 30,
+    "objective": "Integrate functions, specialist roles, review and a scenario into one understandable multiagent studio demonstration.",
+    "explanation": "This checkpoint asks whether the pieces developed during Days 21–29 work together around a purpose. A larger role list does not automatically produce greater capability. Keep the demonstration small enough that another adult can trace the actual exchanges. The project owner states the desired result, selected sources, affected people and final review responsibility. Separate implemented functions from paper or prompt-based representations. Include the learner’s creative or civic judgement in the record rather than attributing all value to agents. The source’s shared-intelligence ambition is explored through a concrete product and the coordination that made it possible.",
+    "worked_example": "Illustrative example: a team prepares a beginner-friendly resource-finding lesson for a fictional community room. A source role assembles the room facts, a designer proposes the activity and a critic checks its accessibility assumptions and source links. A scenario tests a moved resource. A teacher introduces one task to a consenting adult peer. The artefact remains a studio draft, not an operating public service.",
+    "studio_steps": [
+      "Write a mission-sized brief for this small product. Name the human owner, roles, function inputs and outputs, source boundaries, available time and acceptance evidence before assigning work.",
+      "Run one complete exchange and save the actual call or role-play trace. Follow one important fact into the finished artefact and identify where the learner supplied interpretation.",
+      "Introduce a missing source or unavailable function. Require a bounded recovery, a labelled partial result or a clear handover, then critique and revise the demonstration without concealing its interruption.",
+      "Invite a newcomer to perform one meaningful task. Ask them to explain how their action connects with the team’s purpose and identify one dependency a successor would need to maintain."
+    ],
+    "teach_back": "Start with the product’s usefulness, then reveal a single agent exchange. Avoid touring every component before the learner has experienced a result worth understanding.",
+    "evidence": [
+      "A project pack containing the brief, roles, functions and scenario.",
+      "An event history with critique, revision and a changed-condition response.",
+      "A newcomer artefact, their explanation and one documented dependency."
+    ],
+    "transfer_test": "Ask another team to continue the project with a changed audience. Check whether your handover enables a justified revision without requiring them to reconstruct the author’s intentions.",
+    "review_questions": [
+      "Which contribution expanded what the team could actually do?",
+      "What important dependency became visible when something failed?",
+      "Can a newcomer distinguish the implemented demonstration from its proposed future architecture?"
+    ],
+    "access": "Assign demanding contributions through different strengths: source review, narrative design, state modelling, teaching or observation. Use a shared plain-language brief and selectable screen or physical materials.",
+    "extension": "Prepare a short architecture tour for builders and a separate experience tour for civic or creative learners. Compare whether both groups can identify the same responsible review point."
+  },
+  {
+    "day": 31,
+    "objective": "Prepare and review a small, permissioned encounter between two Auras while retaining each person’s control of their context.",
+    "explanation": "Begin with the purpose of the exchange, not access to someone’s whole personal model. Each participant chooses task-relevant context, its audience and how the encounter ends. The source distinguishes simulated socialisation during Genesis from actual wider twin socialising after the agreed milestone. Keep that sequence for a participant following Genesis; an independently chosen adult learning pathway has its own agreement and readiness decisions. This exercise does not impose Genesis requirements on unrelated travel or learning. Two people using role cards can examine the same boundaries without claiming that autonomous twins are already connected.",
+    "worked_example": "Illustrative example: two adults want to co-design a short garden-sound lesson. One shares an approved sound description; the other shares a teaching preference. Their fictional private journals remain outside the pack. During rehearsal, one withdraws the teaching preference from future use. The record must explain what can be removed from working context and what was already incorporated into the retained shared draft.",
+    "studio_steps": [
+      "Choose the simulated, role-play or authorised closed-studio route. Record the participant pathway, shared purpose, named people, permitted tools and review point without treating one route as universal.",
+      "Create separate context packs and an exchange agreement. Identify selected items, audiences, duration, further-use conditions and the human responsible for ending the session.",
+      "Rehearse a short exchange that produces one private draft. Retain each person’s corrections separately from the narrator’s interpretation of whether the encounter felt successful.",
+      "Withdraw one item from further use. Show what changes in the next exchange, identify any retained artefact or record limits and agree a practical recovery or revision."
+    ],
+    "teach_back": "Help another pair explain who participates, which records travel and how to stop. Return their intended meaning before suggesting tools or additional context.",
+    "evidence": [
+      "Two selected context packs and a dated encounter agreement.",
+      "A labelled exchange with attributed human corrections and a shared draft.",
+      "A changed-permission record identifying future-use changes and retention limits."
+    ],
+    "transfer_test": "Rehearse a second encounter with a new collaborator and purpose. Ask the peer to rebuild the context selection rather than copying the first partner’s permission.",
+    "review_questions": [
+      "What did each person choose to contribute to this purpose?",
+      "Which milestone applies to this participant’s actual pathway?",
+      "What can withdrawal change after information has already entered an artefact?"
+    ],
+    "access": "Offer typed turns, spoken role-play or short asynchronous exchanges. Participants may use entirely fictional records, with pauses and an agreed exit available throughout.",
+    "extension": "Compare two introductions to the same partner: one role-led and one interest-led. Ask each person which context made the proposed cooperation clearer."
+  },
+  {
+    "day": 32,
+    "objective": "Represent plural values faithfully and design a shared decision process that identifies affected people and actual decision rights.",
+    "explanation": "A shared map should preserve different worthwhile lives rather than compressing them into a single score. The source’s Joyful Responsible Abundance questions offer a lens for examining enjoyment, consequences and widely available capability, while people retain distinct answers. Separate a value, a factual constraint, a predicted consequence and a decision authority. A model can organise these relationships without receiving the right to decide for everyone. Use a fictional civic situation so learners can practise disagreement without presenting a class vote as an actual community mandate.",
+    "worked_example": "Illustrative example: a shared learning room might host evening music, quiet study or a mixed timetable. One role values creative contact, another a dependable quiet space and another accessible transport home. A fictional room steward has the decision responsibility. The exercise compares options and missing evidence; it does not claim that averaging the participants’ preferences produces a fair or authorised result.",
+    "studio_steps": [
+      "Give each participant a value statement and a chance to rewrite it. Record its author, meaning and circumstances, then ask what would misrepresent that concern.",
+      "Create three feasible options using the same fictional resource limits. Map potential benefits, burdens and uncertainties against every attributed account, without silently inventing missing facts.",
+      "Add a perspective overlooked initially. Revise one option and ask that contributor whether the revision addresses the actual concern or only changes its wording.",
+      "Name the decision holder, participation offered, reasons to record and review date. Preserve dissent and a question requiring further evidence instead of forcing apparent consensus."
+    ],
+    "teach_back": "Invite a newcomer to state one concern and follow it through an option. Ask where it enters the record and who can decide what happens next.",
+    "evidence": [
+      "An attributed value map separating values from facts and authority.",
+      "Three options with consequences, uncertainty and a revised overlooked perspective.",
+      "A decision-process record retaining reasons, dissent and review responsibility."
+    ],
+    "transfer_test": "Move the method to a personal choice between a demanding project and time for relationships. Check whether the learner can represent their own competing values without declaring one universally superior.",
+    "review_questions": [
+      "Whose concern was absent from the first account?",
+      "Which consequence needs evidence before it can guide the choice?",
+      "Does the participation method match the decision rights actually available?"
+    ],
+    "access": "Use voice, pictures, written statements or a facilitator’s returned summary. Allow private preparation and a supporter chosen by the adult, preserving their own wording.",
+    "extension": "Present the same options through a short dramatic scene. Compare what the scene reveals with the written map and check that added emotion has not invented someone’s position."
+  },
+  {
+    "day": 33,
+    "objective": "Develop a contextual human–Aura relationship agreement that separates companionship preferences from authority to act.",
+    "explanation": "A continuing relationship is shaped by encounters and revisions rather than one initial setting. The source explores curiosity, affection, initiative and shifting roles. Learners can discuss those possibilities while representing the actual system honestly: a simulated or current software response is not evidence of mutual feeling or a promise of care. A preferred conversational tone does not authorise access to another record, contact with someone else or an external action. Keep relationship preferences, tool permissions and human support arrangements separately inspectable. The learner decides what the partnership is intended to make possible.",
+    "worked_example": "Illustrative example: Morgan wants direct instructions when learning audio editing, open questions when reflecting on a song and a clear concern if a planned public release includes someone else’s recording. The same warm voice may suit all three, but publication permission remains separate. After trying the editing example, Morgan requests fewer interruptions. That dated change becomes a preference to test rather than a fixed personality label.",
+    "studio_steps": [
+      "Map three contexts: practical assistance, personal exploration and a raised concern. For each, describe the desired tone, degree of initiative, information scope and review point.",
+      "Rehearse each context with fictional material or a chosen low-stakes example. Save the prompt or role card and distinguish the person’s account from an observer’s interpretation.",
+      "Test a permission boundary within an emotionally warm exchange. Check that a request for companionship does not expand record access, publication or contact authority.",
+      "Return the agreement after the encounter. Record one changed preference, its reason and the next situation in which the learner wants to test the revised arrangement."
+    ],
+    "teach_back": "Ask a peer for one contextual preference and demonstrate two responses. Let them explain which fits and why, without inferring a permanent emotional need.",
+    "evidence": [
+      "A relationship map with separate conversational and action-permission fields.",
+      "Three labelled scenario responses and the learner’s comparison.",
+      "A dated revision connecting experience with a future test."
+    ],
+    "transfer_test": "Change from a creative task to an unfamiliar civic question. Ask the learner which relationship preferences transfer and which require a different pace, expertise or human support.",
+    "review_questions": [
+      "What experience prompted the preference change?",
+      "Which welcome response would still exceed its action authority?",
+      "How is the system’s actual capability represented honestly?"
+    ],
+    "access": "Offer short written alternatives, a spoken comparison or role-play with a trusted adult. Personal disclosure is optional; invented material can support the full exercise.",
+    "extension": "Review an older agreement beside a new preference. Retain the history and context so development is visible without treating earlier wording as permanently binding."
+  },
+  {
+    "day": 34,
+    "objective": "Practise a repair process that preserves attributed accounts and tests whether an agreed next action improves cooperation.",
+    "explanation": "Repair begins by establishing what participants want to resolve. Separate what was observed, how someone interpreted it and what they request next, while preserving their relationship. The source’s listening, negotiation and mastermind work supports a process with challenge and care. It does not make a trainee a mediator for every conflict. Choose a low-stakes fictional situation and name when the exercise should pause or move to an appropriate person. The learner practises checking a summary before acting on it, then follows the repair into a second encounter.",
+    "worked_example": "Illustrative example: an agent-assisted workshop draft credits the wrong collaborator for a sound recording. One participant sees an oversight; another worries that their contribution will disappear again. A possible repair corrects attribution, checks the linked source record and agrees a review before the next public draft. The exercise does not assume the apology alone resolved the relationship or that private accounts belong in the shared document.",
+    "studio_steps": [
+      "Agree a fictional disagreement and write separate accounts of events, meaning and desired next step. Name the shared question and each person’s right to pause.",
+      "Rotate listener, mapper, challenger and designer roles. Return each summary for correction before drawing a shared map or proposing explanations for another person’s behaviour.",
+      "Choose one bounded repair with an owner and review time. Update the shared artefact while keeping private reflections within their selected audience.",
+      "Rehearse the next encounter and ask each participant what changed. Record whether the repair helped, created another difficulty or needs further discussion."
+    ],
+    "teach_back": "Guide a peer from an accusation to an observable event and a request, without erasing their concern. Ask them to correct your summary before proposing a solution.",
+    "evidence": [
+      "Attributed accounts distinguishing observations, interpretations and requests.",
+      "A repair agreement with ownership, boundaries and a review point.",
+      "A follow-up record retaining both participants’ assessments of the change."
+    ],
+    "transfer_test": "Apply the method to a fictional missed deadline rather than attribution. Have a peer identify whether the problem concerns a promise, a resource dependency or an unshared assumption.",
+    "review_questions": [
+      "Which part of your summary did the participant correct?",
+      "Who has authority to make the proposed repair?",
+      "What later evidence would show that cooperation improved?"
+    ],
+    "access": "Provide written turns, private preparation or a neutral role-play. Allow pauses and do not require disclosure or re-enactment of a painful personal conflict.",
+    "extension": "Design a small symbolic acknowledgement, such as a revised credit card or shared reading. Ask whether it supports the practical repair instead of substituting for it."
+  },
+  {
+    "day": 35,
+    "objective": "Trace a place-based proposal through dated sources, cultural relationships and the people authorised to make relevant decisions.",
+    "explanation": "A useful place brief distinguishes law, venue policy, cultural permission and personal preference. They may affect the same action but have different sources and decision holders. The source asks learners to find current primary material and preserve its date and jurisdiction. Today’s example is illustrative, not legal advice. If a learner investigates a real project, they need the actual locality, operative source and relevant authority checked before relying on the result. Cultural authority cannot be inferred from appearance, residence or an AI-generated account; an unanswered permission question remains visible.",
+    "worked_example": "Illustrative example: a fictional group wants to record an outdoor storytelling event. The practice brief contains a mock venue rule dated for the exercise and clearly labelled as invented. Recording participants, using a particular story and publishing a finished piece are separate questions. A designated venue contact cannot automatically grant cultural or individual recording permission. No exercise card is presented as an Australian legal requirement.",
+    "studio_steps": [
+      "Choose a fictional event or an authorised real research question. Name place, proposed action, affected people and whether each supplied rule is a hypothetical or a dated primary source.",
+      "Create rule cards for jurisdiction, operative period, scope, decision holder and review date. Keep venue conditions distinct from laws and flag any source whose current operation is unresolved.",
+      "Map cultural and recording permissions without inventing authority. Record the question to ask, the appropriate route to identify an authorised contributor and the audience permitted for any supplied account.",
+      "Walk another adult through one dependency from proposed action to decision. Change the event date or recording purpose and identify which source or permission must be reviewed."
+    ],
+    "teach_back": "Explain one rule card in ordinary language and ask the peer to locate its source and responsible decision-maker. Stop before turning an unresolved research question into confident advice.",
+    "evidence": [
+      "A place brief distinguishing hypothetical facts from checked sources.",
+      "Rule and permission cards with dates, scopes and unresolved authority questions.",
+      "A dependency walkthrough showing what changes when the proposed use changes."
+    ],
+    "transfer_test": "Move the scenario to another locality. Ask the learner to identify what cannot be carried over and how they would find the relevant primary source or responsible contact.",
+    "review_questions": [
+      "Is this requirement a law, policy, permission or preference?",
+      "What justifies the claimed authority over the cultural material?",
+      "Which change would make the existing source card insufficient?"
+    ],
+    "access": "Offer a single-action brief, plain-language source excerpts and a spoken dependency map. Keep complete citations available without making dense legal reading the only participation route.",
+    "extension": "Prepare a source-update note showing who checks a later change and when. Distinguish finding a newer page from verifying that a particular rule now applies."
+  },
+  {
+    "day": 36,
+    "objective": "Build a source-linked community-twin slice that answers one practical question across physical, service, ecological, permission and rule layers.",
+    "explanation": "A community twin becomes useful through its relationship with a place and the people responsible for its information. The source offers public-record, scanning and calibrated-measurement projects as different entry points. They are not interchangeable evidence of a complete living twin. Choose one question, represent the necessary layers and name who can correct each. Personal records do not automatically become community data. A map of access conditions must also distinguish measured features from assumptions; an attractive scene does not certify accessibility or establish permission to use a site.",
+    "worked_example": "Illustrative example: a fictional hub wants to explain how an adult reaches a shared computer. Its slice links the entrance and path, opening-time record, shade condition, booking contact and venue rule. A mock width is explicitly invented. When the usual path closes, the model shows the dependency but cannot certify the alternative route. It returns a question for the designated site steward.",
+    "studio_steps": [
+      "Write the visitor question and select only relevant features. Give every record a date, source, owner or correction route and a status such as observed, public-source, inferred or illustrative.",
+      "Connect five layers in a simple table, map or local scene. Keep service information, environmental conditions, selected people and applicable permissions separately identifiable.",
+      "Run an arrival scenario, then change a timetable or close a path. Trace the affected records and explain where the model lacks evidence to give a dependable answer.",
+      "Invite a consenting adult to review one appropriate layer, or use an assigned fictional steward. Record their correction and demonstrate how it changes the scenario."
+    ],
+    "teach_back": "Start a newcomer with the practical question. Let them follow one feature to its source and ask what evidence would make an uncertain detail dependable.",
+    "evidence": [
+      "A five-layer slice with source dates, statuses and correction responsibilities.",
+      "An initial and changed-condition scenario with traceable dependencies.",
+      "One attributed correction or observation plan and its effect on the model."
+    ],
+    "transfer_test": "Change the service from a computer station to a water-refill point. Have the peer identify which layers remain useful and which require new observations, sources or operational responsibilities.",
+    "review_questions": [
+      "Which layer currently depends on an unverified assumption?",
+      "Who can correct the service information when it changes?",
+      "What would the model need before describing the alternative route as usable?"
+    ],
+    "access": "Provide a text route, tactile or paper map and narrated walkthrough. Keep source records available outside any 3D interface and support contributed corrections in more than one format.",
+    "extension": "Compare a public-record source with a permissioned local observation. Record disagreement and a verification route rather than automatically preferring the newer or more detailed item."
+  },
+  {
+    "day": 37,
+    "objective": "Create a correction-ready C-Hour record that separates voluntary human time, paid activity, learning, resources and observed outcomes.",
+    "explanation": "One C-Hour records one verified hour of voluntary human contribution. It has no monetary value or conversion rate. A contribution can benefit several projects while the person’s time is counted once. The source’s braided-economy approach keeps financial arrangements and shared resources in their own records, alongside rather than inside the hour total. Verification concerns the specified contribution and its evidence; it does not certify every claimed social benefit. A community chooses recognition or invitations with actual conditions and availability. Essential care and belonging do not depend on accumulating hours.",
+    "worked_example": "Illustrative example: Lee voluntarily spends forty-five minutes improving a welcome map, followed by thirty minutes learning a new layout tool for personal development. The contribution may be recorded as 0.75 C-Hour after verification; the learning session has its own description. Two projects can link to the same contribution identifier. A donated laptop and any printing cost remain separate resources, not additional human hours.",
+    "studio_steps": [
+      "Agree a task with a willing host or use a fictional rehearsal. Record purpose, voluntary status, support, intended audience, expected work and who can verify the activity.",
+      "Prepare a proposed contribution record with person, activity, date, duration, evidence, verifier and status. Separate learning, paid work and resource use before adding a total.",
+      "Rehearse verification against selected evidence. Link a second benefiting project to the existing identifier and check that the person’s contribution is not counted again.",
+      "Correct an entered duration or mistaken outcome attribution. Retain the prior value, reason, author and date, then let the contributor choose a private acknowledgement or public project summary."
+    ],
+    "teach_back": "Ask another adult to explain proposed versus verified status and why one useful outcome can involve several different records. Check that they do not describe hours as money.",
+    "evidence": [
+      "A task brief identifying voluntary contribution and the responsible verifier.",
+      "A verified or clearly simulated record with one-time counting demonstrated.",
+      "A correction history and separate resource, learning and outcome records."
+    ],
+    "transfer_test": "Introduce a paid teaching session followed by ten voluntary minutes helping the host pack away. Ask the learner to distinguish the arrangements and request clarification if voluntariness is uncertain.",
+    "review_questions": [
+      "What evidence supports this duration and activity?",
+      "Was one person’s time counted more than once?",
+      "Which claimed benefit needs evidence beyond the contribution record?"
+    ],
+    "access": "Use a spoken activity account, assisted timing or a simple paper form. Verification can remain pending while a correction or audience choice is resolved.",
+    "extension": "Draft a community invitation such as workshop access. State who offers it, actual availability and conditions without inventing a universal exchange price or entitlement."
+  },
+  {
+    "day": 38,
+    "objective": "Rehearse a civic decision with visible participation, actual responsibility, attributed reasons and a route to review consequences.",
+    "explanation": "The source’s Scan, Design, Simulate, Do, Share cycle is a way to organise a decision, not authority to act for a community. In this studio, Do means selecting or rehearsing a next action within the exercise unless a real responsible holder has authorised more. Identify affected people, decision rights, resources and cultural relationships before comparing options. Models and Auras help retrieve sources and examine dependencies, while humans remain accountable for the particular decision. Preserve disagreement and missing evidence so a later steward can understand both the choice and its limits.",
+    "worked_example": "Illustrative example: the fictional hub from Day 36 considers an evening learning session. Resident, venue-steward, ecological, cultural and teaching roles examine access, noise, lighting and support. A mock decision card gives the steward responsibility for choosing whether to seek a trial approval. The class’s preferred timetable is a rehearsal result, not an actual booking or public consultation outcome.",
+    "studio_steps": [
+      "Write a decision brief naming the question, affected roles, authority, available resources and sources. State whether the activity is entirely simulated or what limited real action is authorised.",
+      "Scan the current situation and design at least two options. Simulate consequences using the same assumptions, retaining different value statements and unresolved facts.",
+      "Choose a rehearsal next step through the stated decision process. Record reasons, dissent, owner, required permissions and a review date before preparing any shareable summary.",
+      "Add a new concern or tighter resource limit. Revise the record, then give it to another group to reconstruct the decision without extra explanation."
+    ],
+    "teach_back": "Invite a newcomer to describe a consequence they care about. Show where that contribution enters the process and who has the responsibility to respond.",
+    "evidence": [
+      "A decision brief and role cards with authority clearly scoped.",
+      "Options, scenario consequences and attributed reasons including dissent.",
+      "A changed-condition record and a successor’s reconstruction questions."
+    ],
+    "transfer_test": "Move the cycle to a fictional shared-equipment decision. Ask the learner to redesign participation and responsibility rather than treating the room steward’s authority as universally transferable.",
+    "review_questions": [
+      "Who can authorise the next action?",
+      "Which perspective or source changed the preferred option?",
+      "Could someone receiving the record explain why dissent remained unresolved?"
+    ],
+    "access": "Offer asynchronous statements, a visual option map or a supported spoken turn. Make the decision method available before the discussion and provide a way to correct the recorded account.",
+    "extension": "Create a private working record and a separate authorised public summary. Check that sharing reasons does not expose personal context or imply community-wide agreement."
+  },
+  {
+    "day": 39,
+    "objective": "Adapt one demanding adult lesson across three learner contexts while preserving its meaning, independent choice and observable transfer.",
+    "explanation": "Adaptation changes the route into a concept, not the learner’s worth or the standard of honesty about what they understood. Start with their interest, existing knowledge and desired result. The source’s casual, normal and fast pacing concerns tempo and density; access support also includes language, processing time, captions, sensory conditions and assistance. A trainee should distinguish a teaching demonstration from professional qualification. Completing this adult studio does not confer clinical registration, recognised training authority or a licence to train children. The portfolio states the particular capability observed and where support remains useful.",
+    "worked_example": "Illustrative example: the chosen concept is tracing a map feature to its source. One adult prefers a narrated journey, another an annotated paper map and a builder wants to inspect a small data table. All three should be able to identify the feature’s source, date and unresolved gap. Their formats differ, while the central relationship between a claim and its evidence remains intact.",
+    "studio_steps": [
+      "Write three context plans identifying interest, prior knowledge, chosen format, pace and access requirements. Set the same central understanding and an appropriate practical result for each.",
+      "Prepare an overview, worked example, practice task, transfer task and recovery step. Use fictional or permissioned material and explain what will be observed before the peer agrees.",
+      "Teach one version to a consenting adult. Record their artefact, questions, assistance and own account while an observer notes the sequence without inferring hidden comprehension.",
+      "Revise one teaching element and repeat a related task. Provide a saved state, recap or visible example if the learner loses the route, then check whether they can continue with less prompting."
+    ],
+    "teach_back": "Have the learner teach the relationship back using their own example. Ask what they would check in a different case rather than rewarding fluent repetition alone.",
+    "evidence": [
+      "Three context plans preserving one clearly stated concept.",
+      "A consented adult teaching record with artefact, assistance and learner feedback.",
+      "A transfer result and one documented revision or recovery step."
+    ],
+    "transfer_test": "Provide a new feature and unfamiliar source format. Observe whether the learner finds the source, date and uncertainty without copying the original example’s answer.",
+    "review_questions": [
+      "Was the difficulty in the concept, explanation, interface or conditions?",
+      "Which assistance supported agency rather than taking over the task?",
+      "What precise teaching capability does this portfolio demonstrate?"
+    ],
+    "access": "Let the adult select format and pace, decline personal examples and request support. Screen, tactile, audio and XR options remain choices rather than compulsory stages.",
+    "extension": "Swap teacher and observer roles. Compare which skipped assumption each notices, then create a short prompt that helps future teachers pause and check that relationship."
+  },
+  {
+    "day": 40,
+    "objective": "Lead a bounded civic mission rehearsal through direction, resource allocation, disagreement and a usable succession handover.",
+    "explanation": "Leadership is visible in decisions and responsibilities rather than a title or a persuasive presentation. The source connects women’s substantive leadership with strategy, resources, governance and succession, while the shared mission studio remains available across the cohort. Its Council of Aura characters are fictional mentor concepts, not cultural authorities or evidence of expert endorsement. Use contrasting lenses to generate questions, then examine those questions against sources and accountable human knowledge. Keep the mission’s Earth or solar-system horizon connected to a feasible first contribution rather than promising a future institution.",
+    "worked_example": "Illustrative example: a group designs a small source-linked learning station about local water and future habitats. River asks about water and maintenance; Forge asks about fabrication; Lore asks who can decide and correct the display. The fictional budget allows one prototype. A learner leads a choice of purpose, allocates the mock resource and responds to a disagreement about whose knowledge the station represents.",
+    "studio_steps": [
+      "Write a mission brief covering need, affected people, options, sources, resources, ownership or control, roles, measures and handover. Identify which parts are illustrative and what real authority remains unestablished.",
+      "Choose three contrasting fictional mentor lenses and translate each into a specific question. Separate their prompts from checked evidence and from contributions requiring actual cultural permission.",
+      "Rehearse selecting a direction, allocating a limited resource and responding to disagreement. Record the reason, accountable decision-holder, dissent and any changed commitment after each decision.",
+      "Hand the mission to another participant. Give them sources, commitments, open questions, resource limits and the next review point, then observe what they can responsibly continue."
+    ],
+    "teach_back": "Introduce the mission through a meaningful small task a newcomer can complete. Explain how its evidence returns to the wider purpose and who will respond to their findings.",
+    "evidence": [
+      "A scoped mission brief and three source-aware mentor questions.",
+      "Three decision records identifying responsibility, reasons and unresolved differences.",
+      "A succession handover with the next steward’s clarification needs."
+    ],
+    "transfer_test": "Remove a key resource or change the responsible leader. Ask the successor to revise the next step while preserving the mission’s purpose and permission boundaries.",
+    "review_questions": [
+      "What decision did you actually lead and remain answerable for?",
+      "Which fictional lens exposed a question needing human knowledge?",
+      "Could another steward distinguish commitments from aspirations?"
+    ],
+    "access": "Offer shared leadership, a written decision route or a supported oral brief. Learners can lead through synthesis, making, source judgement or care for participation rather than public performance alone.",
+    "extension": "Connect the mission to a later infrastructure or planetary inquiry. Name one new expertise requirement and one practical first observation instead of assuming today’s prototype scales unchanged."
+  }
+]

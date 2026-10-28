@@ -1,0 +1,12 @@
+{
+  "name": "sort_sample_titles",
+  "status": "Illustrative design exercise; no connected service is provided",
+  "purpose": "Sort three fictional project titles into alphabetical order for an adult learning demonstration",
+  "input": {"titles": ["Garden story", "A shared recipe", "Repair notebook"]},
+  "output": {"sorted_titles": ["A shared recipe", "Garden story", "Repair notebook"]},
+  "permissions": {"network": false, "write_original_files": false, "read_personal_records": false},
+  "preconditions": ["Use only the supplied fictional list", "Confirm the chosen ordering rule"],
+  "review": "Compare input and output; confirm every title appears once and no title was changed",
+  "failure": "Return an understandable error for an item that is not text; do not guess the intended value",
+  "recovery": "Retain the original list and revise the contract before another attempt"
+}

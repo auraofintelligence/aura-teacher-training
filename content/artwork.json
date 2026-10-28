@@ -1,0 +1,56 @@
+{
+  "images": [
+    {
+      "id": "teacher-studio",
+      "prompt": "Use case: photorealistic-natural. Asset: original editorial hero for Aura Teacher Training website, wide landscape3:2. Show a beautiful open Australian community learning studio with three consenting adult learners of different ages collaborating around a wooden table with notebooks, a simple laptop, cards showing colourful connected concepts (no readable text), and a small physical model. A mature woman facilitator listens while a younger adult explains their work; another adult sketches. Warm daylight, garden outside, tactile paper and natural materials, hopeful serious adult learning. Composition has breathing room, natural documentary photography aesthetic; realistic hands, modest everyday clothes. This is fictional proposed programme concept art, no actual facility or participant. No logos, no written text, no watermarks, no dark overlay, no hospital, no children, no sci-fi holograms.",
+      "alt": "Three fictional adults make, explain and review a project in an imagined Australian learning studio.",
+      "file": "assets/images/teacher-studio.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3b61e970ed8d5c9ebd00094511ba6070d1bccc2cc509f875b900fd98c41a7ec6",
+      "source_png_sha256": "a9190c84c254f5aaeda64cc514b4984b7b5548029df85748d3eaaad5e901d788",
+      "generator": "Built-in image_gen",
+      "date": "2026-10-28",
+      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+    },
+    {
+      "id": "personal-meaning",
+      "prompt": "Use case: photorealistic-natural. Original website chapter concept image, landscape3:2. A thoughtful adult learner and adult peer sit at an Australian home studio desk arranging a few personal photographs, blank coloured cards, a notebook sketch connecting memories, places and chosen goals; a tablet shows a simple abstract map of softly coloured connected nodes without text. An open window frames a sunlit Queensland garden. Subject is personal meaning and learning through correction, ordinary calm collaborative work. Natural warm light, restrained ink-blue and sandy colours, documentary editorial photograph style, realistic anatomy. Fictional people and setting. No legible text, no logos, no glowing holograms, no medical equipment, no children, no identifiable real person.",
+      "alt": "Two fictional adult learners connect selected photographs, personal meaning and a simple life map.",
+      "file": "assets/images/personal-meaning.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e7adf3fe52d2f351b3f161edbce5318029ecb5a5e49d83391978d804ebd0ea5f",
+      "source_png_sha256": "972d05fe8c967fa523b6552db7c1b958b11b4a35ab63000ee5c653c9bfd83e2f",
+      "generator": "Built-in image_gen",
+      "date": "2026-10-28",
+      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+    },
+    {
+      "id": "shared-intelligence",
+      "prompt": "Use case: photorealistic-natural. Original editorial concept for an adult civic learning course, landscape3:2. Four adults from different generations work around a large tactile tabletop map of an imagined Australian coastal neighbourhood. Small wooden blocks mark a community garden, workshop, houses and shaded public paths; paper notes and an open notebook document questions with no readable text. One adult calmly explains a connection, another listens, one sketches an alternative; respectful cooperation, practical shared intelligence and plural decisions. Airy community workshop, garden visible, teal and warm amber accents, realistic natural daylight and anatomy. Fictional proposed activity, no official badges, no logos, no legible text, no children, no drones, no citywide surveillance or sci-fi overlays.",
+      "alt": "Fictional adults compare ideas around a tactile model of an imagined coastal community.",
+      "file": "assets/images/shared-intelligence.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b5288c3adaf4a54cac2ae0e6b81a8cd5e4156605fabff09d8542eaf9d81d1b60",
+      "source_png_sha256": "bafdf46ef6e332e62a064ab92fa274798a4271e388687d6ab8b088f38da47c85",
+      "generator": "Built-in image_gen",
+      "date": "2026-10-28",
+      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+    },
+    {
+      "id": "frontier-stewardship",
+      "prompt": "Use case: stylized-concept with photorealistic physical models. Original landscape3:2 editorial concept for adult science and Earth/space stewardship learning. In a light-filled research teaching workshop, two adult collaborators examine a meticulous tabletop model of a closed-loop greenhouse habitat: plants, water reservoir, shaded living space, small solar panels, labelled-looking but UNREADABLE notebooks, and a small model spacecraft off to one side. Through a large window is an Australian landscape beneath a wide late-afternoon sky. Emphasise hands-on testable systems, ecological care and ambitious curiosity; elegant restrained navy, sage and amber palette, cinematic natural material detail. Proposed learning concept, not an operating space programme. No legible text, no brands, no glowing interfaces, no launch explosion, no medical imagery, realistic anatomy.",
+      "alt": "Two fictional adult collaborators examine a model greenhouse habitat and its physical dependencies.",
+      "file": "assets/images/frontier-stewardship.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "00a4a3c09c88c808cbd3cb57b7e654798888a1e12b1c27fe377e6352f6024a79",
+      "source_png_sha256": "2588ddbc8013e8aba565c93ab6d094e191d6de668f0069cd8095ee3be79e01d4",
+      "generator": "Built-in image_gen",
+      "date": "2026-10-28",
+      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+    }
+  ]
+}

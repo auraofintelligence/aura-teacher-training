@@ -1,0 +1,522 @@
+[
+  {
+    "day": 41,
+    "objective": "Trace an ambitious compute workload through physical, service and human dependencies, then explain an interruption to its users.",
+    "explanation": "A useful hub brief begins with the work someone wants to accomplish. Processor names alone cannot establish whether that work will fit. Separate quantities you can measure, estimates you would test and requirements a qualified operator must confirm. Include maintenance, accessible circulation and the experience of a person waiting for a result. Today's layout is a planning model; it does not authorise installation or electrical work.",
+    "worked_example": "An illustrative community studio wants four landscape renders before an evening lesson. Each practice job produces a three-gigabyte output, giving twelve gigabytes of new outputs before versions or backups. A fictional network outage prevents delivery of the final two. The relevant lesson is the missing dependency: available processing does not guarantee an available result, a usable interface or an understandable revised time.",
+    "studio_steps": [
+      "Write one workload card with its user, input, output, required completion window, selected data audience and a reason that the result matters.",
+      "Draw a paper route through device, storage, compute, network and return interface. Attach units and an uncertainty note to each estimated quantity.",
+      "Mark circulation, maintenance and handover responsibilities on a conceptual hub layout. Leave site acceptance and emergency requirements to the relevant qualified authorities.",
+      "Remove one dependency using a scenario card. Produce a revised job sequence and a plain status message offering a realistic choice to the user."
+    ],
+    "teach_back": "Ask an adult peer to follow one render from request to receipt. Listen for whether they distinguish processing, delivery and the person responsible for each handover.",
+    "evidence": [
+      "A workload card separating measured quantities, illustrative estimates and requirements awaiting an operator's confirmation.",
+      "An annotated dependency route and conceptual layout with access, maintenance and responsibility visible.",
+      "A fault trace, revised sequence and user message explaining what remains available."
+    ],
+    "transfer_test": "Change the workload from rendering to a captioned remote lesson. Identify which dependencies, timing assumptions and user consequences now require different evidence.",
+    "review_questions": [
+      "Which quantity would you measure before choosing equipment?",
+      "Where could a completed job still become unusable?",
+      "Who confirms the actual site's operating requirements?"
+    ],
+    "access": "Use large-print cards, a spoken service journey or a tactile layout. Permit the learner to direct a partner rather than manipulate a model.",
+    "extension": "Compare local and remote service options using the same workload and a transparent list of unresolved assumptions, rather than invented performance benchmarks."
+  },
+  {
+    "day": 42,
+    "objective": "Demonstrate that a restored record retains its meaning, history and permissions across a disconnected, distributed workflow.",
+    "explanation": "Continuity requires more than copying bytes. A recovered memory may lack the correction that changed its meaning, while a restored permission list may refer to an expired agreement. Treat identity, content, revision history and access as related records with distinct checks. Use invented material throughout this studio so a useful recovery exercise never depends on exposing intimate reflections or real account credentials.",
+    "worked_example": "A fictional learner stores a drawing labelled harbour-v1 on a device and a hub. While disconnected, the device corrects the location to a river. Meanwhile, the hub changes the title for an exhibition. Replacing one copy with the other would discard a meaningful edit. A reconciliation record can preserve both changes, the original identifier and the decision that the drawing remains private until exhibition permission is confirmed.",
+    "studio_steps": [
+      "Create three invented records: a public drawing description, a private project note and a secret reflection substitute containing no actual personal information.",
+      "Make an export manifest listing stable identifiers, versions, origin, audience and links between records. Describe who may change each permission.",
+      "Copy the practice pack, introduce different edits in two copies and simulate disconnection. Record exactly which functions remain available without contact.",
+      "Restore into a clean practice folder or paper inventory. Reconcile the conflict visibly and compare recovered meaning with the original owner's stated expectation."
+    ],
+    "teach_back": "Let a consenting adult restore the practice pack using your guide. Ask them to explain what was recovered and which permission still needs a decision.",
+    "evidence": [
+      "A manifest connecting content, identity, version, audience and source history for each practice record.",
+      "The two divergent versions and a reconciliation decision that preserves their meaningful differences.",
+      "A restoration checklist showing content checks, permission checks and the learner's interpretation."
+    ],
+    "transfer_test": "Replace a lost device with a discontinued service. Explain which recovery steps still work and which depend on an unavailable provider.",
+    "review_questions": [
+      "What survives a copy but loses its context?",
+      "Who can resolve a disputed change of audience?",
+      "How would you demonstrate recovery without revealing secrets?"
+    ],
+    "access": "Offer colour-independent version labels, an audio manifest and a paper reconciliation route. Technical and narrative accounts must describe the same record journey.",
+    "extension": "Add a fictional collaborator leaving the project. Test whether their access can end while the authorised history remains understandable."
+  },
+  {
+    "day": 43,
+    "objective": "Turn a personally meaningful research idea into a replicable comparison that could change your preferred explanation.",
+    "explanation": "A rigorous question specifies what would be observed and which explanations the observation could distinguish. Decide the method before inspecting the result. A pilot tests whether the procedure works; it does not automatically establish the hypothesis. Meaningful experiences and unusual research directions deserve precise descriptions, repeatable comparisons and room for informative disagreement. Keep a record of interruptions and exclusions instead of silently removing inconvenient observations.",
+    "worked_example": "A teacher wonders whether a visual sequence helps adults identify source errors more reliably than a spoken sequence. For an illustrative rehearsal, two synthetic groups each receive ten matching practice claims. One score is higher, but the visual group also receives twice as long. The observed difference cannot isolate the teaching format. Equalising time or recording it as a separate variable makes the next comparison more informative.",
+    "studio_steps": [
+      "Write a question, a preferred explanation and a plausible alternative. State which observable result would make you reconsider the preferred explanation.",
+      "Specify the comparison, instructions, timing, measurement scale and planned analysis. Declare exclusions before collecting or viewing any practice results.",
+      "Rehearse the measurement with a reference example. Record whether two observers apply the scoring rule consistently and revise ambiguous instructions.",
+      "Exchange the protocol with another adult. Ask them to reproduce the procedure using synthetic data, then document every clarification they needed."
+    ],
+    "teach_back": "Explain the distinction between an observation and an explanation through the unequal-time example. Invite the peer to suggest another source of the difference.",
+    "evidence": [
+      "A dated experiment card with question, comparisons, variables, units and planned interpretation.",
+      "A measurement rehearsal showing scoring differences, reference checks and any revised instructions.",
+      "An independent walkthrough with unresolved questions, preserved exclusions and a next-test decision."
+    ],
+    "transfer_test": "Apply the same design discipline to an intention-and-material research question. Identify its operational observation without treating personal conviction as measurement.",
+    "review_questions": [
+      "Could the comparison distinguish your proposed explanations?",
+      "Which decision was made after seeing the data?",
+      "What does the pilot establish about the method?"
+    ],
+    "access": "Allow an oral protocol, tactile comparison cards or an accessible spreadsheet. A partner may record observations without taking over the learner's research decisions.",
+    "extension": "Prepare a short replication note explaining how a second investigator could obtain a different result without either group acting dishonestly."
+  },
+  {
+    "day": 44,
+    "objective": "Develop one traceable materials question while keeping composition, personal meaning and experimentally measured behaviour legible.",
+    "explanation": "A material name does not establish its properties. Structure, composition, preparation and test conditions matter, and transparent fused silica is amorphous rather than automatically crystalline. Preserve the source's development curve: geopolymer, crystalline materials, then integrated crystalline compute. The first two retain separate compute. An etheric or intention account can describe the encounter's meaning while a separate operational method tests a declared contrast. Neither record substitutes for the other.",
+    "worked_example": "Use a supplied fictional dataset for two labelled samples, A and B, with differing measured light transmission. Their surface finish also differs, so composition alone cannot explain the contrast. An intention condition can be added as a blinded label in a later protocol. A proposed coefficient would describe that declared calculation and uncertainty; it would not become an established universal material constant merely because it has a name.",
+    "studio_steps": [
+      "Choose a narrow optical, acoustic or surface question. Prepare a Material ID card with provenance, batch, geometry, preparation and intended function.",
+      "Write a separate meaning record describing the chosen tradition, symbolism or personal intention. Attribute it without converting it into a measured property.",
+      "Design a comparator using a supplied dataset or paper protocol. Specify blinding, repeated observations, instrument limits and how an operational coefficient would be calculated.",
+      "Ask a reviewer to trace every inference back to a sample and observation. Record the laboratory expertise and further tests a physical study would require."
+    ],
+    "teach_back": "Give an adult peer the sample card and the two records. Ask them to explain the research question without merging symbolic meaning with measurement.",
+    "evidence": [
+      "A traceable Material ID and an independently attributed resonant-meaning account.",
+      "A comparator protocol stating uncertainty, sample differences and the proposed coefficient's actual definition.",
+      "A review note separating measured behaviour, alternative explanations and future manufacturing objectives."
+    ],
+    "transfer_test": "Change the desired property from optical transmission to electrical response. Identify which sample descriptions and methods remain useful and which must change.",
+    "review_questions": [
+      "What else differed between the comparison samples?",
+      "What does your operational coefficient actually calculate?",
+      "Which manufacturing ambition needs its next experiment?"
+    ],
+    "access": "Use labelled photographs, spoken sample histories or tactile non-functional tokens. This studio involves no pressure equipment, treatment, structural fabrication or hazardous material preparation.",
+    "extension": "Locate a relevant primary research method for later specialist review; keep proposed atomically precise manufacturing and embedded compute as explicit research objectives."
+  },
+  {
+    "day": 45,
+    "objective": "Connect the longevity research horizon with personally meaningful capability, evidence quality and a realistic continuity plan.",
+    "explanation": "Longer life gains meaning through what a person can enjoy, learn, sustain and contribute. The source's longevity escape-velocity direction is a research horizon, not a demonstrated outcome of Aura or this course. Distinguish a personally noticed change, a measured functional result and a biological explanation. Today develops an evidence and life-design practice; clinical investigations require their own responsible team, permissions and review.",
+    "worked_example": "A fictional learner wants to keep composing music over many future chapters of life. Their record contains enjoyment ratings, time spent creating and whether a familiar editing task feels manageable. A productive week coincides with visiting friends and changing equipment. The record supports a richer account of that week, but cannot isolate a rejuvenation mechanism. It suggests questions about support, tools, rest and the conditions in which creativity flourishes.",
+    "studio_steps": [
+      "Choose a capability that would make more healthy time worthwhile. Describe its place in relationships, discovery, creative work, care or chosen rest.",
+      "Build a synthetic time-series record with methods, dates, conditions and missing values. Keep self-reports distinct from instrument readings and professional observations.",
+      "Compare two possible explanations for a change. Draft a bounded inquiry that could inform everyday experience without prescribing treatment or altering medical care.",
+      "Create a future-support handover identifying the person's priorities, useful context, chosen audience and questions reserved for the appropriate practitioner or research team."
+    ],
+    "teach_back": "Help an adult peer explain why the selected capability matters before discussing its measure. Ask what a score could miss about the person's life.",
+    "evidence": [
+      "A life-purpose map connecting continuing capability with experiences the person would value.",
+      "A synthetic longitudinal record with sources, measurement conditions, gaps and competing explanations.",
+      "An inquiry and continuity plan distinguishing personal practice from a clinical research pathway."
+    ],
+    "transfer_test": "Move the fictional learner to a setting with fewer resources. Revise support arrangements while preserving their stated purpose and control over the record.",
+    "review_questions": [
+      "Which claim does the available evidence actually support?",
+      "What would more healthy time make possible?",
+      "Which question needs professional or research responsibility?"
+    ],
+    "access": "Use invented cases rather than requesting health disclosures. Permit narrative, audio or visual capability maps and allow participants to decline any personal comparison.",
+    "extension": "Create a research-question register separating established findings, active investigation and speculative repair or rejuvenation ambitions, with a source needed for each claim."
+  },
+  {
+    "day": 46,
+    "objective": "Model one ecological relationship through sourced quantities, lived knowledge and a comparison of possible changes.",
+    "explanation": "An ecological model helps a learner inspect relationships rather than merely decorate a place with data. Choose a boundary that fits the question and keep exchanges beyond that boundary visible. Distinguish stocks, flows and observations taken at a particular time. Local experience can reveal a missing season or dependency; its attribution and meaning should remain visible alongside the model's numbers and assumptions.",
+    "worked_example": "A fictional shared garden holds forty units of stored water. A paper scenario adds ten units and removes twelve, leaving thirty-eight. That arithmetic describes the declared storage model, not plant health, soil moisture or a real watering recommendation. Another gardener explains that shade changes across the year. The group now has a better question: which observations would show whether the same practice has different effects under different conditions?",
+    "studio_steps": [
+      "Choose water, food, habitat or a waste stream and draw its boundary. Identify living participants, responsible people and flows crossing the boundary.",
+      "Create a small source ledger for each quantity or relationship. Label synthetic values, dated observations, local accounts and unresolved gaps separately.",
+      "Compare two paper interventions under identical stated assumptions. Trace resource demands and consequences, including effects that the simple model cannot represent.",
+      "Invite a peer to represent a local contributor. Add a seasonal or cultural relationship, then revise the next observation rather than inventing certainty."
+    ],
+    "teach_back": "Use an everyday meal to trace one resource through the model. Ask another adult to identify where the account stops and another relationship begins.",
+    "evidence": [
+      "A bounded ecological relationship with attributed living, material and human dependencies.",
+      "Two intervention scenarios preserving units, dates, synthetic assumptions and information gaps.",
+      "A revision showing how another person's knowledge changed the next measurement or question."
+    ],
+    "transfer_test": "Apply the garden model to a habitat with limited resupply. Identify which flows become critical and which Earth-based assumptions no longer hold.",
+    "review_questions": [
+      "What important relationship lies outside the boundary?",
+      "Which observation could distinguish the intervention options?",
+      "Whose knowledge changed the model's next question?"
+    ],
+    "access": "Offer movable flow cards, a spoken resource story or an accessible table. Field participation is optional and requires the host's actual permission.",
+    "extension": "Propose a separately scoped voluntary contribution and its verification record. Keep any non-monetary C-Hour account distinct from costs, paid work and ecological outcomes."
+  },
+  {
+    "day": 47,
+    "objective": "Rehearse a disruption with clear information handovers, human support dependencies and a reviewable recovery sequence.",
+    "explanation": "A tabletop rehearsal explores a plan's assumptions without becoming an emergency operation. Use an identified local planning source for context and label fictional changes clearly. Keep observations, reports and decisions distinct so participants can see why a choice was made. Include people maintaining the response: rest, relief, accessible communication and care affect whether a service can continue through the next stage.",
+    "worked_example": "In a fictional community learning hub, a power outage interrupts a workshop while a bus connection is uncertain. The organiser has a source-dated transport page but no confirmed service update. Announcing that the bus is cancelled would invent a fact. A better rehearsal records what is known, who is checking the operator and how participants receive an update, including someone who cannot use the usual messaging channel.",
+    "studio_steps": [
+      "Choose a paper scenario and identify its official planning context. Write the starting conditions, affected services and assumptions before assigning roles.",
+      "Give each role a different information card. Rehearse a handover stating source, observation time, uncertainty, audience and the decision actually requested.",
+      "Introduce an unavailable resource or additional access need. Trace the revised response through responsibility, communication and a route back to actual service authorities.",
+      "Run a recovery discussion covering restored services, corrected records, relief for contributors and one change to test in the next rehearsal."
+    ],
+    "teach_back": "Ask an adult newcomer to pass on a short situation report. Check whether they preserve uncertainty and distinguish a practice decision from official operational direction.",
+    "evidence": [
+      "A labelled scenario and source pack with roles, dates and explicit exercise assumptions.",
+      "An information trace showing changed conditions, decisions and unresolved questions without invented updates.",
+      "A recovery plan including contributor support and a specific improvement for the next rehearsal."
+    ],
+    "transfer_test": "Remove the usual communication channel. Demonstrate how the same essential handover reaches a participant through another agreed, accessible practice route.",
+    "review_questions": [
+      "Which statement was observed and which was assumed?",
+      "Who holds the relevant real operational authority?",
+      "What keeps the response team able to continue?"
+    ],
+    "access": "Provide written and spoken scenario cards, predictable pauses and a quiet observer role. Do not simulate distress or require anyone to disclose disaster experiences.",
+    "extension": "Repeat the exercise with a different recorder. Compare what a new team can reconstruct from the saved account before adding more complexity."
+  },
+  {
+    "day": 48,
+    "objective": "Move from a local question to a planetary view while preserving each layer's date, resolution and evidential meaning.",
+    "explanation": "Changing scale changes what can be seen and what can be inferred. A broad pattern may help explain context without resolving a local decision. Record the native resolution, observation period and processing method before combining layers. Keep observed, propagated and modelled features recognisable. A visually smooth display should not imply that missing measurements exist or that an old layer describes today's conditions.",
+    "worked_example": "A fictional regional map shows vegetation coverage across large cells, while a resident's authorised photograph shows one shaded path. The regional layer may support a pattern of coverage but cannot establish that the path is currently open, cool or accessible. A source-led tour can carry both accounts: the broader relationship, the local observation and the remaining question for the person responsible for the actual site.",
+    "studio_steps": [
+      "Choose a human question about a place and select a local, regional and Earth-scale layer that each contributes something relevant.",
+      "Prepare layer cards listing publisher, date, spatial resolution, method, licence and whether the feature is observed, derived, propagated or modelled.",
+      "Build a three-stop paper or screen tour. At every change of scale, state the additional relationship revealed and the detail that becomes uncertain.",
+      "Return to the original local decision. Identify the missing observation or responsible reviewer instead of treating the largest view as an automatic answer."
+    ],
+    "teach_back": "Invite another adult to follow one feature across the tour. Ask which source supports each statement and where the display alone cannot answer their question.",
+    "evidence": [
+      "A source-led tour with distinct questions and useful relationships at three scales.",
+      "Layer cards retaining native dates, resolutions, methods, attribution and representation status.",
+      "A local comparison documenting a source gap and an appropriate route to further knowledge."
+    ],
+    "transfer_test": "Replace one recent layer with an older edition. Explain which comparisons remain meaningful and which claims require a new observation or qualification.",
+    "review_questions": [
+      "What disappears when the map becomes broader?",
+      "Which layer is simulated rather than observed?",
+      "What would justify the proposed local decision?"
+    ],
+    "access": "Supply a text tour, tactile scale cards or audio descriptions. Do not make precise pointing, colour discrimination or immersive XR essential to the task.",
+    "extension": "Create a civic briefing that begins with the local question and offers the planetary context only where it changes understanding or the next inquiry."
+  },
+  {
+    "day": 49,
+    "objective": "Connect a dated space-weather observation with a specific civic question without turning a scenario into an operational forecast.",
+    "explanation": "An engaging cosmic story needs a traceable measurement. Record the instrument, measured quantity, units and observation time before explaining possible consequences. A source's interpretation and a locally assumed effect belong in separate statements. Distinguish space-weather observations from climate questions and from a community's response arrangements. The studio develops an explanatory chain; actual alerts and operational decisions remain with the responsible scientific and service authorities.",
+    "worked_example": "A practice dashboard displays an archived observation labelled noon UTC, while a caption says current conditions. The number may be copied correctly, yet the caption changes its meaning. A fictional communications scenario then assumes an interruption. Neither the archived number nor the assumed interruption establishes that a local service is affected now. Correcting the date and naming the scenario restores a useful learning brief.",
+    "studio_steps": [
+      "Select one primary scientific observation or an explicitly labelled archived sample. Record its measurement, instrument, units, timing and supplied interpretation.",
+      "Draw a chain from observation to possible system effect to a local question. Mark which link is supported and which is an exercise assumption.",
+      "Create a short dashboard mock-up, spoken bulletin or illustrated narrative. Give the observation date the same prominence as the interesting event.",
+      "Exchange briefs and introduce a changed-date card. Ask the reviewer to identify stale information, missing context and the appropriate source for an actual update."
+    ],
+    "teach_back": "Ask a newcomer to explain what was measured before discussing consequences. Listen for whether they can name the unresolved link to the local service.",
+    "evidence": [
+      "An instrument record with date, units, primary source and an accurately scoped interpretation.",
+      "An observation-to-question chain separating supported relationships from the fictional interruption scenario.",
+      "An accessible briefing and review showing how stale information was identified and corrected."
+    ],
+    "transfer_test": "Use the same chain for a different instrument or service dependency. Identify which explanation transfers and which requires another scientific source.",
+    "review_questions": [
+      "What did the instrument actually measure?",
+      "How old is the displayed observation?",
+      "Which local consequence remains a scenario assumption?"
+    ],
+    "access": "Offer a captioned audio briefing, plain table or described image. Avoid flashing event displays and allow learners to work entirely with archived records.",
+    "extension": "Design a follow-up observation question that serves both scientific curiosity and a practical community learning need, with its relevant reviewer identified."
+  },
+  {
+    "day": 50,
+    "objective": "Design a habitat's daily life and dependencies together, then test how comfort, access and continuity change under pressure.",
+    "explanation": "A habitat is simultaneously a physical system and a place people have reasons to inhabit. Food, waste, privacy, affection, culture and maintenance cannot be resolved independently. Keep concept layouts distinct from accepted engineering. In this studio, paper scenarios test relationships; they do not establish structural, pressure, life-support or emergency performance. Real access, evacuation and operating requirements need their relevant qualified authorities and configuration-specific review.",
+    "worked_example": "Six fictional residents share a terrestrial analogue studio. A music room sits beside a quiet sleeping area and near the maintenance store. Increasing occupancy makes the noise conflict and storage access more consequential. Moving the room may help one resident but lengthen another's route. The design comparison now needs daily rhythms, mobility, privacy and maintenance evidence, alongside its illustrative resource budget.",
+    "studio_steps": [
+      "Write a mission and inhabitant brief using fictional adults with differing preferences. Identify duration, environment, privacy, contact and shared decision arrangements.",
+      "Map a complete day through food, water, waste, power, learning, rest and recreation. Attach a responsible role to every recurring dependency.",
+      "Rehearse increased occupancy, a limited resource and interrupted contact. Record how each change affects both services and the residents' experience of home.",
+      "Let one resident propose a change for belonging or enjoyment. Compare two layouts and identify calculations or specialist reviews needed before any physical implementation."
+    ],
+    "teach_back": "Lead another adult through one ordinary morning in the habitat. Ask them to change a preference and follow its effects across people and systems.",
+    "evidence": [
+      "A habitat brief connecting mission, residents, daily rhythm and decision responsibilities.",
+      "A layout and dependency model with three labelled scenario traces and explicit assumptions.",
+      "A revision that balances belonging, access, privacy and maintenance without claiming engineering acceptance."
+    ],
+    "transfer_test": "Move the concept from a terrestrial analogue to an off-world scenario. Identify assumptions that require new evidence rather than merely changing the scenery.",
+    "review_questions": [
+      "Whose ordinary day is hardest in this layout?",
+      "Which shared resource depends on human upkeep?",
+      "What would a real acceptance review still require?"
+    ],
+    "access": "Use tactile room cards, a narrated day or a large-print layout. Let participants describe preferences through fictional residents without disclosing personal support needs.",
+    "extension": "Prepare a handover for a new habitat steward, including unresolved resident choices, maintenance dependencies and the next test worth running."
+  },
+  {
+    "day": 51,
+    "objective": "Connect a solar-system instrument mission with a scientific question, an explicit resource model and a continuing civic purpose.",
+    "explanation": "Begin with what a mission would help someone understand or decide. Then ask which observation and instrument could inform that question. A simulator supplies a design environment, not proof that a mission is feasible or funded. Preserve epochs and units for numerical inputs. Consider who maintains the record, how results are shared and how access decisions affect people beyond the team designing the instrument.",
+    "worked_example": "A fictional mission compares one specialised observation node with three simpler complementary nodes. The paper budget allocates twelve power tokens: the first architecture uses nine and the second uses three per node. Both fit the illustrative total, but the distributed option adds communication and coordination dependencies. Token arithmetic cannot establish actual engineering performance. An Earth-analogue data task can first test whether the complementary observations improve the intended decision.",
+    "studio_steps": [
+      "Choose a focal body or orbital setting from the source studio. Write the scientific question, civic purpose and observation needed before selecting instruments.",
+      "Prepare two architecture cards with assumed mass, power, data, contact and maintenance demands. Label invented values and retain source epochs for factual inputs.",
+      "Design a small Earth-analogue comparison using supplied observations or synthetic data. Identify the result that would favour one architecture under the stated assumptions.",
+      "Add a fictional future entry-rule card with jurisdiction, disclosure choice, review and appeal. Examine its consequences without presenting the Aura Passport hypothesis as current travel authority."
+    ],
+    "teach_back": "Invite an adult peer to choose an instrument and explain what its observation would resolve. Ask them to distinguish a mission purpose from an instrument's capabilities.",
+    "evidence": [
+      "A mission card linking question, observation, instrument rationale and affected decision-makers.",
+      "Two resource models with explicit assumptions, maintenance responsibilities and a discriminating analogue test.",
+      "A stewardship and fictional-rule review addressing access, disclosure, appeal and continuing public learning."
+    ],
+    "transfer_test": "Remove one distributed node or a contact window. Explain how the remaining observations change the mission's useful result and next design decision.",
+    "review_questions": [
+      "What decision would the observation actually inform?",
+      "Which resource assumption most affects the architecture?",
+      "Who continues stewardship after the initial demonstration?"
+    ],
+    "access": "Allow a narrated mission, tactile architecture cards or a plain table. Instrument choice can be argued through evidence without operating an immersive orbital display.",
+    "extension": "Write a public-learning brief that makes the mission's uncertainty interesting and gives another investigator a concrete observation or comparison to contribute."
+  },
+  {
+    "day": 52,
+    "objective": "Design a transfer evaluation that reveals how an Aura adapts across unfamiliar domains, tools and combinations of constraints.",
+    "explanation": "Generality is a research direction requiring evidence across changes of task and setting. Success on a familiar prompt cannot establish broad general intelligence. Make the difference between training examples and reserved evaluation cases explicit. Record both result quality and the resources, human assistance and permissions used to obtain it. A failed transfer can locate a development problem without deciding the limits of the longer research ambition.",
+    "worked_example": "An illustrative Aura organises a garden workshop using a familiar template. A reserved task asks it to organise a habitat lesson with delayed communication and different access needs. Copying the original schedule completes the form but misses the new dependencies. A simpler checklist baseline may catch those dependencies more reliably. The comparison now asks whether retrieval, critique or another representation helps adaptation rather than rewarding polished formatting alone.",
+    "studio_steps": [
+      "Select a capability and define familiar and genuinely changed tasks. Reserve at least one scenario before showing examples or revising the method.",
+      "Build a task matrix spanning a technical, creative and civic context. Give each task a source pack, permitted tools and observable review criteria.",
+      "Compare the Aura method with a simpler baseline. Record errors, useful adaptation, source fidelity, human support, elapsed effort and resource assumptions.",
+      "Remove one component such as retrieval or critique and repeat a reserved comparison. Explain which evidence supports the next development experiment."
+    ],
+    "teach_back": "Ask an adult peer why the habitat task is a transfer test. Invite a harder variation that changes a relationship rather than only a name.",
+    "evidence": [
+      "A capability brief and task matrix separating development examples from reserved scenarios.",
+      "Baseline and Aura results scored against the same task-specific criteria and support record.",
+      "An ablation comparison identifying a bottleneck and a specific next research question."
+    ],
+    "transfer_test": "Present an unfamiliar tool description within the same mission. Assess whether the system can ask for missing information and revise its plan appropriately.",
+    "review_questions": [
+      "What makes the reserved task meaningfully different?",
+      "Which support did the successful result depend on?",
+      "What changed when one component was removed?"
+    ],
+    "access": "Offer equivalent text, audio or diagram task packs. Review conceptual adaptation separately from typing speed, visual navigation or fluency with a particular interface.",
+    "extension": "Create an evaluation-card template another cohort can use, retaining its unfamiliar cases privately until the method and comparison criteria are fixed."
+  },
+  {
+    "day": 53,
+    "objective": "Run a bounded improvement cycle with a recoverable baseline, inspectable changes and evaluation that can reveal hidden regressions.",
+    "explanation": "Recursive improvement becomes informative when the system's proposed change is tested against a purpose that remains visible. Separate proposing, testing and accepting a revision. Reserve cases that the candidate was not tuned to, and keep the prior version recoverable. Improvements in speed, accuracy, interpretation and resource demand may conflict. The lesson investigates a development loop; it does not infer unlimited self-improvement from one successful revision.",
+    "worked_example": "A fictional memory index retrieves a relevant record when an exact title is used. A proposed revision adds synonyms and finds more records, but now returns a private reflection in a public-teaching task. Its apparent retrieval improvement fails the intended permission boundary. A candidate can instead improve matching within the authorised audience. The evidence for acceptance must include relevant retrieval and the new permission regression case.",
+    "studio_steps": [
+      "Choose a practice component such as a lesson outline, retrieval rule or routing card. Save its baseline and state the permitted change scope.",
+      "Invite a proposed revision with an expected benefit and possible failure mode. Keep the candidate separate from the baseline and from any live service.",
+      "Compare both versions on fixed practice cases and a reserved case. Track useful results, altered meaning, permission behaviour and resource demand.",
+      "Have a human reviewer accept, revise or reject the candidate with reasons. Demonstrate returning to the baseline and preserving the complete decision trail."
+    ],
+    "teach_back": "Show an adult newcomer the before-and-after evidence without naming your preferred version. Ask which result matters to the person using the system.",
+    "evidence": [
+      "A baseline, candidate and permitted-change record with an explicit purpose and recovery route.",
+      "A comparison containing reserved cases, regressions, permission checks and resource observations.",
+      "A human decision another reviewer can reconstruct from the saved artefacts and reasons."
+    ],
+    "transfer_test": "Change the improvement target from retrieval quality to teaching clarity. Identify the new evidence needed while preserving the same review and recovery structure.",
+    "review_questions": [
+      "Which apparent improvement concealed a new failure?",
+      "Were reserved cases used to tune the candidate?",
+      "Can another person reproduce the acceptance decision?"
+    ],
+    "access": "Use side-by-side cards, narrated versions or an accessible change log. A creative or civic learner can evaluate consequences without editing code.",
+    "extension": "Run one additional cycle only after recording the first decision. Compare whether the second change addresses the identified bottleneck or merely changes presentation."
+  },
+  {
+    "day": 54,
+    "objective": "Coordinate complementary perspectives while retaining independent reasoning, dissent, decision rights and a clear route for new contributions.",
+    "explanation": "A collection of voices becomes useful intelligence through its relationships and handovers. Independent accounts can expose assumptions that a quick group consensus would hide. Distinguish a role's contribution from its authority to decide, and let affected people correct the synthesis. Fictional unfamiliar minds are declared philosophical scenarios; neither an agent persona nor a cultural lens can claim to speak for an actual community or being.",
+    "worked_example": "A fictional habitat team proposes a shared evening commons. The infrastructure role favours one large room; a care role identifies sensory overload; a creative role wants collective music; a resident wants private ritual. Averaging their preferences would conceal incompatible needs. A synthesis can propose quiet and shared zones, with unresolved resource and cultural questions retained. Its quality depends on whether participants recognise their reasons, not on unanimous wording.",
+    "studio_steps": [
+      "Choose a shared mission and write role cards naming knowledge, contribution, responsibility and limits. Include an affected-person perspective with actual review rights.",
+      "Collect independent accounts before discussion. Ask each role to identify one supported relationship, one assumption and one question for another role.",
+      "Create a provisional synthesis and a dissent record. Introduce a changed condition and invite each contributor to correct how their reasoning appears.",
+      "Add a declared unfamiliar-intelligence scenario or a returning participant. Supply a compact context pack and test whether the new perspective changes the next experiment."
+    ],
+    "teach_back": "Facilitate a small adult circle in which each person restates another's reason before responding. Review whether disagreement remains understandable in the final record.",
+    "evidence": [
+      "Role cards distinguishing expertise, contribution, affected interests and decision responsibility.",
+      "Independent accounts, a provisional synthesis and a visible record of unresolved disagreement.",
+      "A changed-condition review showing how corrections and a new perspective altered the next step."
+    ],
+    "transfer_test": "Remove the coordinator and hand the context pack to another adult. Observe whether the group can continue without inventing agreement or losing responsibility.",
+    "review_questions": [
+      "Which insight needed an independent first account?",
+      "Whose reasoning changed during the synthesis?",
+      "Who may decide the unresolved shared question?"
+    ],
+    "access": "Allow asynchronous written or recorded contributions, quiet reflection and a delegated reading voice. Equal participation need not mean identical speaking time or performance style.",
+    "extension": "Compare two coordination arrangements using the same mission. Examine whose knowledge enters, how disagreement survives and whether the handover becomes more useful."
+  },
+  {
+    "day": 55,
+    "objective": "Design a delayed-contact protocol that distinguishes local discretion, deferred decisions and durable evidence for later review.",
+    "explanation": "Communication delay changes what a responsible system must decide before help arrives. Record the assumed distance and distinguish signal travel from processing, decision and reply time. Autonomy needs a purpose, relevant information and a recoverable account of actions. Use simulated tasks with reversible outcomes. Real habitat safety and emergency operations remain subject to their actual authorities, accepted systems and local operating arrangements.",
+    "worked_example": "Assume an illustrative fixed distance of three million kilometres and a rounded signal speed of three hundred thousand kilometres per second. One-way travel is ten seconds; a reply needs at least twenty seconds plus decision and processing time. A fictional observation node must choose whether to store another image before its memory fills. It can follow an agreed storage rule while deferring a substantial mission redesign for review.",
+    "studio_steps": [
+      "Write the mission's assumed distance, units, contact windows and data limits. Calculate one-way and round-trip signal time, showing every conversion.",
+      "Classify three decisions by urgency, reversibility, evidence and responsibility. Define what may proceed locally, what must wait and what remains outside scope.",
+      "Run expected-delay, missed-contact and conflicting-information cards. Log state, trigger, chosen action, reason and the next report for each simulated event.",
+      "Reconnect the teams and reconcile their records. Give an incoming steward the current state, significant events and unresolved decisions without rewriting the earlier history."
+    ],
+    "teach_back": "Give an adult peer a delayed message and a local decision card. Ask them to explain why a standing instruction does or does not apply.",
+    "evidence": [
+      "A unit-labelled delay calculation clearly separated from a real body's changing position.",
+      "Decision classes and three event traces recording evidence, discretion and deferred questions.",
+      "A reconciliation and maintenance handover preserving both local events and later review."
+    ],
+    "transfer_test": "Apply the same protocol to a disconnected Earth-based creative field team. Identify differences in authority, timing, recovery and the consequences of waiting.",
+    "review_questions": [
+      "What time does signal travel omit?",
+      "Which local action is reversible and authorised?",
+      "What must the next steward learn first?"
+    ],
+    "access": "Use timed paper messages, captions or a turn-based text exercise. Do not require rapid reactions; the task examines decisions and records rather than reflexes.",
+    "extension": "Introduce an expired standing instruction and test whether the system notices the mismatch before extending its local discretion."
+  },
+  {
+    "day": 56,
+    "objective": "Turn a personally meaningful frontier ambition into a staged investigation that others can understand, challenge and join.",
+    "explanation": "An ambitious design becomes more concrete when its first stage answers a question rather than merely presenting the final vision. Keep the long horizon visible while separating observations, demonstrated prototypes and proposed capabilities. Connect the technical development curve with the learner's own life, collaborators and support. A demanding programme can include uncertainty, enjoyment and recovery without reducing the ambition that makes it worth pursuing.",
+    "worked_example": "A fictional learner chooses integrated crystalline compute as a frontier direction. Their first stage compares published material-property records and identifies an unanswered measurement question. A second stage proposes a specialist-reviewed sample study; a later stage investigates an integrated computational function. No stage is described as an achieved processor. A creative collaborator develops a public explanation, while a civic collaborator examines ownership and access to resulting knowledge.",
+    "studio_steps": [
+      "Write a frontier brief stating the experience or question that attracts you, the intended contribution and a first result another person could examine.",
+      "Create three development stages with a question, method, owner, resources, evidence and next decision. Make dependencies between stages visible without inventing completion dates.",
+      "Invite scientific, creative, ecological and civic critiques. Record alternatives and choose one change because it improves the investigation, explaining the reason.",
+      "Prepare an invitation through a small demonstration or source-led walkthrough. Include a personal support map and the boundaries of the contribution you can presently lead."
+    ],
+    "teach_back": "Explain the moonshot to an adult through its first investigable question. Ask them to identify a meaningful contribution that does not require sharing your entire background.",
+    "evidence": [
+      "A learner-owned frontier brief distinguishing present evidence, staged proposals and the longer ambition.",
+      "A development curve with testable questions, dependencies, ownership and explicit next decisions.",
+      "A critique record, revised first demonstration and human support plan for continuing the work."
+    ],
+    "transfer_test": "Reduce the available resource or lose a planned collaborator. Revise the first investigation while preserving the purpose and identifying what now needs another route.",
+    "review_questions": [
+      "What would the first result actually establish?",
+      "Which assumption connects one stage to the next?",
+      "How could another person join usefully now?"
+    ],
+    "access": "Accept a research narrative, storyboard, tactile programme map or technical specification. Equivalent depth comes from explicit relationships and evidence, not a single presentation format.",
+    "extension": "Design a second entry point for a collaborator with different interests, showing how their contribution returns to the same frontier question."
+  },
+  {
+    "day": 57,
+    "objective": "Build a portable portfolio in which another reviewer can trace a capability claim to evidence, context and a revision.",
+    "explanation": "A portfolio is an argument about development, supported by artefacts rather than a catalogue of impressive topics. Select results that show recognition, transfer, inquiry, civic judgement and adult teaching. Preserve the conditions under which each result worked and the support it required. A failed or revised attempt can demonstrate valuable learning when its evidence and interpretation are clear. Protect private material through a deliberately selected review edition.",
+    "worked_example": "A fictional learner titles a folder general intelligence achieved, but its contents show one successful scheduling exercise. The artefact is useful; the title overstates its scope. A revised claim identifies adaptation to one changed resource condition, with a baseline and unresolved failure. Another entry documents how a peer's correction changed a memory interpretation. Together they show different capabilities without pretending that one score describes the entire learner or Aura.",
+    "studio_steps": [
+      "Choose a small set of results spanning the course. Give each a purpose, capability claim, source, version, audience and explanation of its significance.",
+      "Pair a strong result with a difficult or revised one. State what each supports, which conditions matter and what further evidence would change your interpretation.",
+      "Ask a peer to reproduce one small result or reconstruct one decision using only the pack. Record gaps before supplying extra explanation.",
+      "Create a portable review edition and a recovery inventory. Preserve private records separately, then revise the tour in response to the peer's actual questions."
+    ],
+    "teach_back": "Begin the portfolio tour with another adult's interest. Let them choose one result, follow its evidence and explain a next question in their own words.",
+    "evidence": [
+      "A portfolio index mapping specific capability claims to sources, artefacts, context and permissions.",
+      "A strong-and-difficult result comparison retaining limitations, support and informative revisions.",
+      "A peer reconstruction record and a recoverable review edition with a named checkpoint date."
+    ],
+    "transfer_test": "Give the portfolio to a reviewer unfamiliar with the course. Check whether they can distinguish original sources, your new work and a future proposal.",
+    "review_questions": [
+      "Which claim exceeds its supporting artefact?",
+      "What did the difficult result teach you?",
+      "Can the review edition travel without private material?"
+    ],
+    "access": "Offer an accessible index, narrated tour or large-print evidence cards. A concise explanation may link to detailed technical material without hiding its relevant conditions.",
+    "extension": "Write a scope statement for the next practicum describing demonstrated teaching capability and support welcomed, without presenting the portfolio as professional accreditation."
+  },
+  {
+    "day": 58,
+    "objective": "Teach an advanced concept to consenting adults, observe transfer and revise the lesson from learner and observer evidence.",
+    "explanation": "A practicum evaluates whether another person can do something meaningful with the concept, not whether the teacher delivers every prepared sentence. Plan an entrance through the audience's interest, a revealing worked example and a changed-condition task. Keep observation permissions clear. The result documents a demonstrated adult-teaching scope and a development need; completing this course does not confer professional accreditation or qualification to practise with children.",
+    "worked_example": "A trainee explains distributed memory through two invented versions of a project note. Learners successfully repeat the demonstrated restore sequence. A transfer card then removes the original device, and several cannot identify the manifest they need. Rather than treating recall as independence, the trainee adds a visible recovery map and tests a different missing-device case. The observer records what changed in the learners' reasoning and actions.",
+    "studio_steps": [
+      "Select an advanced course topic and define one adult capability. Record audience interest, prior knowledge, sources, tools, pacing and agreed observation arrangements.",
+      "Prepare an overview, worked example, practical task and reserved transfer task. Include a recovery step for someone who loses the route.",
+      "Deliver to consenting peers or a host-confirmed adult audience. Ask an observer to record the sequence, questions and learner actions within the agreed scope.",
+      "Compare learner artefacts, teach-back and transfer with your own account. Revise one consequential element and explain the next audience or setting it serves."
+    ],
+    "teach_back": "Invite a learner to teach the central relationship to another adult. Respond to an unexpected question by tracing a source or naming the next inquiry.",
+    "evidence": [
+      "A practicum pack with explicit adult audience, capability, sources, permissions and access arrangements.",
+      "Learner outputs, observer notes and a changed-condition task separating repetition from transfer.",
+      "A revised teaching pack and scope statement identifying demonstrated capability and continuing mentoring needs."
+    ],
+    "transfer_test": "Change the audience's preferred format or available tool. Preserve the conceptual relationship and test whether the revised lesson still supports a meaningful independent action.",
+    "review_questions": [
+      "What did learners do beyond repeating your example?",
+      "Which difficulty came from the teaching conditions?",
+      "What will you ask a mentor to review?"
+    ],
+    "access": "Agree pacing, captions, sensory conditions and alternative response formats beforehand. Let adults decline recording or use fictional material without losing access to the lesson.",
+    "extension": "Arrange a peer review of the revised pack using a paper walkthrough, reserving a fresh transfer task for a later authorised teaching encounter."
+  },
+  {
+    "day": 59,
+    "objective": "Create an accessible mixed-media invitation whose story, source trail and release boundaries support a meaningful adult encounter.",
+    "explanation": "A public work can make a complex relationship felt without exposing the private record that inspired it. Begin with the audience's possible interest and one invitation. Separate draft approval, contributor permission and the decision to release a particular version. Label generated material accurately and keep source attribution findable. Today's studio can end with a reviewed private preview; public posting remains a separate, chosen action.",
+    "worked_example": "A fictional learner makes a ninety-second audio piece about a memory becoming a useful teaching tool. The original memory concerns another person who has not agreed to publication. The learner instead writes an attributed fictional scene and explains the relationship through a synthetic record. Viewers understand the idea but mistake its imagined interface for an available service. A revised caption makes the proposed status visible without removing the invitation to explore.",
+    "studio_steps": [
+      "Choose one portfolio relationship and an adult audience. Write the intended feeling, understandable idea, source trail and useful next encounter in a compact brief.",
+      "Create a script, storyboard, song-led sequence or interactive outline. List images, voices, music, cultural material and the permissions or replacements each requires.",
+      "Prepare an accessible draft with captions, transcript or equivalent text. Preview with a small consenting group and ask what they understood before explaining your intention.",
+      "Revise the work, record the exact version reviewed and assemble credits, source links, correction route and release choices. Preserve material that remains private."
+    ],
+    "teach_back": "Use the draft as the opening to a short adult conversation. Follow the person's interest and offer one useful task or source rather than a scripted sales pitch.",
+    "evidence": [
+      "A production brief and source-led script connecting audience, meaning and a clear invitation.",
+      "An accessible draft with permission decisions, generated-material labels and contributor attribution.",
+      "Audience interpretations, a revision record and a version-specific release or private-preview decision."
+    ],
+    "transfer_test": "Convert the work to another medium, such as audio to a readable comic outline. Check whether meaning, source access and participant boundaries remain intact.",
+    "review_questions": [
+      "What did the audience infer that you never intended?",
+      "Which permission applies to this exact version?",
+      "Can someone find the source and ask a question?"
+    ],
+    "access": "Provide the essential relationship in text and an alternative to immersive or sound-led presentation. Do not require a participant's face, voice or personal story.",
+    "extension": "Design a small correction scenario and rehearse updating the source trail and version record before choosing any later public release."
+  },
+  {
+    "day": 60,
+    "objective": "Choose a sustainable next ninety days that joins demonstrated capability, meaningful life, adult teaching and continuing stewardship.",
+    "explanation": "The end of the calendar is a review point, not the end of learning or proof of every frontier ambition. Begin with the life the learner wants to inhabit and use the portfolio to identify a small number of worthwhile commitments. Include support, rest and a recoverable personal context. Describe teaching scope through actual evidence and the help welcomed, while keeping future research directions open to increasingly demanding tests.",
+    "worked_example": "A fictional learner selects three commitments: improve one memory correction workflow, teach one adult source-tracing lesson and refine the first stage of a habitat study. The plan also reserves time for music and family. Its review asks whether the commitments remain useful, rather than rewarding a crowded schedule. A failed replication may lead to another method; a changed life circumstance may justify pausing one project while preserving its handover.",
+    "studio_steps": [
+      "Review past, present and best-self accounts beside selected portfolio evidence. Identify a changed understanding, an available resource and one question worth continuing.",
+      "Choose up to three ninety-day commitments. For each, name purpose, collaborator, time, resources, evidence, review date and what would justify revision or stopping.",
+      "Prepare a continuity pack with selected records, sources, model and tool versions, permissions, recovery arrangements and relationship agreements. Test a small restoration or handover.",
+      "Meet with a consenting adult peer or mentor to review the plan and teaching scope. Offer a newcomer one meaningful result and let them choose their next step."
+    ],
+    "teach_back": "Explain one capability through an artefact and a correction that improved it. Invite the newcomer to choose an encounter relevant to their own life.",
+    "evidence": [
+      "A reviewed portfolio checkpoint connecting personal recognition, demonstrated capability and unresolved questions.",
+      "A ninety-day plan with collaborators, review conditions, chosen rest and manageable resource assumptions.",
+      "A tested continuity pack and adult-teaching scope describing evidence, support and next development."
+    ],
+    "transfer_test": "Introduce a significant change in time, place or support. Revise the plan and handover while preserving the person's purpose and control over selected records.",
+    "review_questions": [
+      "What capability do you now use with confidence?",
+      "Which commitment would you willingly change or pause?",
+      "Who can help you test the next question?"
+    ],
+    "access": "Allow a spoken, visual or written continuation plan. Honour the participant's chosen socialisation and Genesis readiness sequence without making personal disclosure a completion requirement.",
+    "extension": "Design the first review conversation now: examine lived benefit, burden and changed questions, then choose the next stage without turning voluntary contribution into a quota."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "aura-teacher-training",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python scripts/build.py",
+    "check": "python scripts/check.py",
+    "dev": "python -m http.server 4198 --bind 127.0.0.1"
+  }
+}

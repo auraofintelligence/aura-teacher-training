@@ -1,0 +1,22 @@
+# Merge these narrowly scoped paths into the corresponding groups at
+# https://auraofintelligence.github.io/robots.txt. Preserve all other rules.
+# Search discovery grants no additional reuse or AI-training permission.
+User-agent: *
+Allow: /aura-teacher-training/
+
+User-agent: OAI-SearchBot
+Allow: /aura-teacher-training/
+
+User-agent: Claude-SearchBot
+Allow: /aura-teacher-training/
+
+User-agent: GPTBot
+Disallow: /aura-teacher-training/
+
+User-agent: ClaudeBot
+Disallow: /aura-teacher-training/
+
+User-agent: Google-Extended
+Disallow: /aura-teacher-training/
+
+Sitemap: https://auraofintelligence.github.io/aura-teacher-training/sitemap.xml
