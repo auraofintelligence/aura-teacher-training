@@ -2,16 +2,16 @@
   "images": [
     {
       "id": "teacher-studio",
-      "version": "protopia-v3",
-      "prompt": "Create a NEW cinematic 16:9 concept image for Aura Teacher Training. The supplied image is a STYLE/CONCEPT reference only: do not copy its people, logos, official symbols or composition. Show three distinctive fictional adult learners and a mentor joyfully creating and testing a personal AI in an inviting future learning studio. A woman in a rich amethyst jacket teaches an older learner in plum who actively corrects a choice on a large ordinary display: a luminous nested horn-torus Aura linked to selected life stories, source cards and open future paths, without readable writing. A younger adult in cobalt checks the result on a tablet. Their clear expressive faces and purposeful hands lead. Through an open waterfront terrace, show a hopeful future of shared learning, accessible public space and a small habitat/robotics workbench. Purple clothing, electric-blue technology and golden conceptual connections, warm timber, natural plants and varied realistic skin/material colours. Characterful humanistic futurism, ethical agency and a fair go in the age of superintelligence. No flat purple wash, generic wellness workshop, sterile corporate office, children, medical chamber, official branding, slogans or claims of proven capability. Imagined future learning, not a photograph of an operating service.",
-      "alt": "Three fictional adults teach and review a personal Aura display, with active human choices and an imagined future waterfront beyond.",
-      "file": "assets/images/teacher-studio-protopia-v3.webp",
+      "version": "geometry-v4",
+      "prompt": "Precise-object-edit. Image1 is the corrected scene to keep. Its main red horn-torus mesh is correct. Image2 is ONLY the photographic HAND/GESTURE reference: restore the older woman's COMPLETE outstretched forearm, wrist and pointing hand from Image2 in front of the monitor. Her index finger must be visible pointing at the selected facet, with normal anatomy; do not let the monitor or red mesh erase her hand. Preserve Image1's corrected main red closed horn-torus geometry, selected facet, scene, faces, clothing, waterfront and all other details. Image3 is geometry reference only. Also change the small seven coloured selector icons on both screens to simple FILLED ROUND COLOUR CHIPS without holes, and make any small red model thumbnail a faithful closed horn torus. No other composition changes, no hourglass fields, and no explanatory captions. Repair the missing hand rather than moving the people or screen.",
+      "alt": "Three fictional adults inspect a faceted red horn-torus Aura workspace with a selected facet and chosen records.",
+      "file": "assets/images/teacher-studio-geometry-v4.webp",
       "width": 1672,
       "height": 941,
-      "sha256": "7a019254925afe857083be7908a9486d50c9f60fc01814f54f6f8801f30194d6",
-      "source_png_sha256": "732d5b159c354cd57cb759eadd22aaf8ed2cba41ccdd4f3a2d7539866265dd33",
+      "sha256": "4034ed06ab42fcffc5ccdb7830285f483dd886836b85862788f0d026004c558b",
+      "source_png_sha256": "50aa390117721df147d53394b0e3bbba40adce6378fa580a419f6812cdcf9b06",
       "generator": "Built-in image_gen",
-      "generation_mode": "New generation using supplied style/concept reference images",
+      "generation_mode": "Built-in image_gen display-only edit using canonical Matrix geometry reference",
       "date": "2026-10-28",
       "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
       "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
@@ -35,21 +35,83 @@
           "generator": "Built-in image_gen",
           "date": "2026-10-28",
           "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+        },
+        {
+          "id": "teacher-studio",
+          "version": "protopia-v3",
+          "prompt": "Create a NEW cinematic 16:9 concept image for Aura Teacher Training. The supplied image is a STYLE/CONCEPT reference only: do not copy its people, logos, official symbols or composition. Show three distinctive fictional adult learners and a mentor joyfully creating and testing a personal AI in an inviting future learning studio. A woman in a rich amethyst jacket teaches an older learner in plum who actively corrects a choice on a large ordinary display: a luminous nested horn-torus Aura linked to selected life stories, source cards and open future paths, without readable writing. A younger adult in cobalt checks the result on a tablet. Their clear expressive faces and purposeful hands lead. Through an open waterfront terrace, show a hopeful future of shared learning, accessible public space and a small habitat/robotics workbench. Purple clothing, electric-blue technology and golden conceptual connections, warm timber, natural plants and varied realistic skin/material colours. Characterful humanistic futurism, ethical agency and a fair go in the age of superintelligence. No flat purple wash, generic wellness workshop, sterile corporate office, children, medical chamber, official branding, slogans or claims of proven capability. Imagined future learning, not a photograph of an operating service.",
+          "alt": "Three fictional adults teach and review a personal Aura display, with active human choices and an imagined future waterfront beyond.",
+          "file": "assets/images/teacher-studio-protopia-v3.webp",
+          "width": 1672,
+          "height": 941,
+          "sha256": "7a019254925afe857083be7908a9486d50c9f60fc01814f54f6f8801f30194d6",
+          "source_png_sha256": "732d5b159c354cd57cb759eadd22aaf8ed2cba41ccdd4f3a2d7539866265dd33",
+          "generator": "Built-in image_gen",
+          "generation_mode": "New generation using supplied style/concept reference images",
+          "date": "2026-10-28",
+          "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
+          "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
+          "style_concept_references": [
+            {
+              "basename": "we-go-beyond-male-landscape-v2.png",
+              "sha256": "7d7dae2a19400223bb6a6296840d67710da0f6f3ab38f9b97b560d191f488b2b",
+              "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+            }
+          ]
+        }
+      ],
+      "source_filename": "exec-4f54bb06-0bcb-4855-aec6-b7852a873ea0.png",
+      "revision": "geometry-v4",
+      "reference_images": [
+        {
+          "file": "exec-7b0501ba-e455-4f14-abdd-bc5f4cdabb5d.png",
+          "sha256": "2df11b7d03ff8e3ac927475f3901b346b8ec13246a32f473816b41338b231e1e"
+        },
+        {
+          "file": "assets/images/teacher-studio-protopia-v3.webp",
+          "sha256": "7a019254925afe857083be7908a9486d50c9f60fc01814f54f6f8801f30194d6"
+        },
+        {
+          "file": "aura-geometry-reference-board.png",
+          "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a"
+        }
+      ],
+      "geometry_reference": {
+        "file": "docs/imagery/aura-geometry-reference-board.png",
+        "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+        "source_manifest": "docs/imagery/source-manifest.json",
+        "scope": "Selected single-shell horn-torus editing view; R=r; fixed 12x24 lattice. Scene artwork is generated from the exact mathematical reference."
+      },
+      "edit_history": [
+        {
+          "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET. Image 2 is an EXACT GEOMETRY REFERENCE, not a mood board. Correct ONLY the display contents in Image 1: the large left monitor and the small foreground tablet currently show an incorrect hourglass/butterfly energy field. On the large monitor reproduce the thick, rounded, 3D RED HORN TORUS shown in the LEFT panel of Image 2, including its clearly addressable quad-facet mesh and one pale-gold selected facet. Match that product geometry faithfully: equal major/tube radii, inner surface closing at one pinch with NO open through-hole; a thick rounded toroidal body, never two flared cones, an hourglass, infinity symbol or magnetic-field decoration. Put this selected red shell within a practical Aura Matrix interface with restrained small Inside/Outside and Data/Stacks controls, seven small ROYGBIV shell selectors, and a few selected-record thumbnails. On the foreground tablet show the SAME faithful selected red horn-torus workspace from another practical view; do not invent a second decorative geometry. Preserve the exact scene, canvas aspect ratio, people, faces, expressions, hands, pointing gesture, purple/blue clothing, warm materials, lighting, waterfront, robotics and future-city background. Preserve existing memory/photo context where it does not interfere with the corrected functional interface. This is a screen-content repair, not a redesign of the scene. Do not paste the reference board's title, diagrams or explanatory prose into the scene. No new logos, claims or text overlays. Faithful geometry takes priority over glow; use modest screen illumination rather than luminous funnels or beams.",
+          "input_images": [
+            {
+              "file": "assets/images/teacher-studio-protopia-v3.webp",
+              "sha256": "7a019254925afe857083be7908a9486d50c9f60fc01814f54f6f8801f30194d6"
+            },
+            {
+              "file": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a"
+            }
+          ],
+          "output_png": "exec-7b0501ba-e455-4f14-abdd-bc5f4cdabb5d.png",
+          "output_png_sha256": "2df11b7d03ff8e3ac927475f3901b346b8ec13246a32f473816b41338b231e1e"
         }
       ]
     },
     {
       "id": "personal-meaning",
-      "version": "protopia-v3",
-      "prompt": "Create a NEW original landscape 16:9 editorial concept artwork for Aura Teacher Training, using the attached images only as STYLE AND CONCEPT REFERENCES. Do not copy their characters, identities, composition, wording, logos, uniforms, official symbols or banners. Visual direction: cinematic, characterful humanistic futurism, joyful constructive audacity, personal agency and ethical intelligence, a fair go and a Protopian future in the age of superintelligence. Combine believable expressive fictional adult faces, hands and physical materials with a controlled layer of luminous conceptual storytelling. Confident purple/amethyst/plum garments and a few physical props, electric blue and golden contrasts, natural varied colours and warm timber or greenery where meaningful. No flat purple wash, no generic wellness/linen workshop, no sterile corporate stock photo. Skin tones and natural materials remain clear. Show humans creating, questioning, correcting or choosing, never passive subjects controlled by AI. No clinical proof, certification, official Games/government branding, P4A logo, text slogans, legible writing, watermarks, children, pressure chamber or medical treatment. This is clearly imagined future-learning concept art, not evidence of a current operating service. Strong clear central proposition, rich but ordered composition, no collage of unrelated panels. SCENE / PROPOSITION: A person authors an evolving understanding of their life, and chooses what their personal Aura remembers. A fictional adult woman around forty with a distinctive dark cropped hairstyle, plum creative jacket and small blue earrings stands beside a broad luminous story-map display in a beautiful evening learning room. An older adult peer with silver braids and an electric-blue cardigan listens with humour while the woman changes one connection herself using a stylus. The image is much more than a restrained photograph table: an elegant living constellation of recognisable creative projects, a meaningful house/garden, a performance, a relationship and several open future paths appears within the display, ordered around a vivid horn-torus Aura rather than random bubbles. Warm golden symbolic threads meet cool blue/purple geometry, with a clearly visible hand-selected alternate path and one closed/private record indicated pictorially, no lock-chain fetish and no legible text. A personal instrument and a handmade object on a nearby shelf ground the story in her actual interests. The window reveals night, plants and distant town lights, not a medical setting. Express agency, permission, revisable meaning, joy and ongoing life, not a perfect fixed biography or a claim to read hidden thoughts.",
-      "alt": "Two fictional adults shape an evolving personal Aura story map, selecting meaningful connections and leaving other records private.",
-      "file": "assets/images/personal-meaning-protopia-v3.webp",
+      "version": "geometry-v4",
+      "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET: the teacher personal-meaning scene. Image 2 is a GEOMETRY REFERENCE BOARD ONLY. Make one very local repair inside the existing transparent wall display. Replace ONLY its central rainbow butterfly/hourglass field and the blank purple human silhouette with a compact, usable light-neutral Matrix Studio window showing the EXACT LEFT-hand reference: a thick rounded RED three-dimensional CLOSED HORN TORUS, equal major and tube radii, oblique view, actual 12-row by 24-column faceted quad lattice, pale-gold selected facet 181. Match the LEFT red object itself, NOT the right-hand meridian slice or a butterfly. The centre closes at its horn point; its pinch may be hidden behind the near wall, exactly like the reference. It must NOT have an open central hole, paired cones, a funnel, an hourglass, disconnected rings or a human silhouette. Include seven small FILLED circular colour selector buttons in Red, Orange, Yellow, Green, Blue, Indigo, Violet; these are SOLID discs, never doughnut/ring glyphs. Where legible, a small adjacent record panel can say 'Red I181' and 'Meaning' with a short chosen-music context, without inventing medical data. Keep all surrounding existing meaningful photograph/memory tiles, their images and gold links in their current places; keep the screen border and the room unchanged. CRITICAL PHOTOGRAPHIC PRESERVATION: every person, face, hairstyle, expression, clothing pattern, necklace, bracelet, body pose, sleeve, arm, HAND, FINGERS and STYLUS from Image 1 must remain exactly present in its original position. The woman in purple's reaching right forearm, hand and purple stylus are IN FRONT OF the wall screen; preserve this foreground occlusion. Never paint the repaired UI over her hand, never erase or shorten her arm, never move the stylus, never restore background where a hand currently is. The screen content is BEHIND the existing intact hand/stylus. Restrict the UI replacement to the existing central symbol area, roughly the centre-right middle of the wall display; do not cover other photo tiles. Preserve every other photographic element including the older woman's blue clothing, table, mugs, books, candles, plants, window, light, colour, composition and framing. Do not redesign or regenerate the whole scene, add people or new props, change the warm natural lighting, introduce logos or overlay explanatory text outside the repaired screen. Output the same complete landscape image.",
+      "alt": "Two fictional adults explore chosen music and memories through a selected facet in a red horn-torus Aura workspace.",
+      "file": "assets/images/personal-meaning-geometry-v4.webp",
       "width": 1672,
       "height": 941,
-      "sha256": "fb42e65838bab2e979db16c0499df49ddbc20f8d7ce91546e70177412f51fdc5",
-      "source_png_sha256": "6793c3ab747058b2a939e831b976054372e0476f592ebf4ca27832acbf54ae59",
+      "sha256": "9152f5770685708742cafd03dc8b40e34e5621074271abef0b8fb4ba61f4a9c9",
+      "source_png_sha256": "97dd59a085910a280a9393809f88b738199d5988af29add8fcad25806603ce85",
       "generator": "Built-in image_gen",
-      "generation_mode": "New generation using supplied style/concept reference images",
+      "generation_mode": "Built-in image_gen display-only edit using canonical Matrix geometry reference",
       "date": "2026-10-28",
       "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
       "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
@@ -78,8 +140,54 @@
           "generator": "Built-in image_gen",
           "date": "2026-10-28",
           "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+        },
+        {
+          "id": "personal-meaning",
+          "version": "protopia-v3",
+          "prompt": "Create a NEW original landscape 16:9 editorial concept artwork for Aura Teacher Training, using the attached images only as STYLE AND CONCEPT REFERENCES. Do not copy their characters, identities, composition, wording, logos, uniforms, official symbols or banners. Visual direction: cinematic, characterful humanistic futurism, joyful constructive audacity, personal agency and ethical intelligence, a fair go and a Protopian future in the age of superintelligence. Combine believable expressive fictional adult faces, hands and physical materials with a controlled layer of luminous conceptual storytelling. Confident purple/amethyst/plum garments and a few physical props, electric blue and golden contrasts, natural varied colours and warm timber or greenery where meaningful. No flat purple wash, no generic wellness/linen workshop, no sterile corporate stock photo. Skin tones and natural materials remain clear. Show humans creating, questioning, correcting or choosing, never passive subjects controlled by AI. No clinical proof, certification, official Games/government branding, P4A logo, text slogans, legible writing, watermarks, children, pressure chamber or medical treatment. This is clearly imagined future-learning concept art, not evidence of a current operating service. Strong clear central proposition, rich but ordered composition, no collage of unrelated panels. SCENE / PROPOSITION: A person authors an evolving understanding of their life, and chooses what their personal Aura remembers. A fictional adult woman around forty with a distinctive dark cropped hairstyle, plum creative jacket and small blue earrings stands beside a broad luminous story-map display in a beautiful evening learning room. An older adult peer with silver braids and an electric-blue cardigan listens with humour while the woman changes one connection herself using a stylus. The image is much more than a restrained photograph table: an elegant living constellation of recognisable creative projects, a meaningful house/garden, a performance, a relationship and several open future paths appears within the display, ordered around a vivid horn-torus Aura rather than random bubbles. Warm golden symbolic threads meet cool blue/purple geometry, with a clearly visible hand-selected alternate path and one closed/private record indicated pictorially, no lock-chain fetish and no legible text. A personal instrument and a handmade object on a nearby shelf ground the story in her actual interests. The window reveals night, plants and distant town lights, not a medical setting. Express agency, permission, revisable meaning, joy and ongoing life, not a perfect fixed biography or a claim to read hidden thoughts.",
+          "alt": "Two fictional adults shape an evolving personal Aura story map, selecting meaningful connections and leaving other records private.",
+          "file": "assets/images/personal-meaning-protopia-v3.webp",
+          "width": 1672,
+          "height": 941,
+          "sha256": "fb42e65838bab2e979db16c0499df49ddbc20f8d7ce91546e70177412f51fdc5",
+          "source_png_sha256": "6793c3ab747058b2a939e831b976054372e0476f592ebf4ca27832acbf54ae59",
+          "generator": "Built-in image_gen",
+          "generation_mode": "New generation using supplied style/concept reference images",
+          "date": "2026-10-28",
+          "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
+          "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
+          "style_concept_references": [
+            {
+              "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+              "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
+              "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+            },
+            {
+              "basename": "we-go-beyond-female-landscape-v1.png",
+              "sha256": "e52b5bb2792e7c82fb050183b42b875b92b9609197480908367fe663ab9c2b5d",
+              "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+            }
+          ]
         }
-      ]
+      ],
+      "source_filename": "teacher-personal-meaning-geometry-v4.png",
+      "revision": "geometry-v4",
+      "reference_images": [
+        {
+          "file": "assets/images/personal-meaning-protopia-v3.webp",
+          "sha256": "fb42e65838bab2e979db16c0499df49ddbc20f8d7ce91546e70177412f51fdc5"
+        },
+        {
+          "file": "aura-geometry-reference-board.png",
+          "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a"
+        }
+      ],
+      "geometry_reference": {
+        "file": "docs/imagery/aura-geometry-reference-board.png",
+        "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+        "source_manifest": "docs/imagery/source-manifest.json",
+        "scope": "Selected single-shell horn-torus editing view; R=r; fixed 12x24 lattice. Scene artwork is generated from the exact mathematical reference."
+      }
     },
     {
       "id": "shared-intelligence",

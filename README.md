@@ -36,3 +36,7 @@ No accounts, analytics, personal records, evidence uploads or form submissions. 
 ## Rights and discovery
 
 Strange But True Public Source Licence; original sources and third-party fonts keep their rights. See LICENCE.md, RIGHTS.md and content/artwork.json. The project robots.txt is informational on GitHub Pages. The controlling shared-host policy is at https://auraofintelligence.github.io/robots.txt; .github/robots-root-snippet.txt supplies only this project's scoped rules. Discovery grants no additional reuse or training rights.
+
+## Imagery geometry correction
+
+The geometry-v4 artwork edits correct selected Aura display regions using an exact reference calculated from Aura Matrix Studio's current source. People, activities and the existing visual direction are retained. The visitor-facing written content continues to use its original source document and reviewed web edition; later geometry and implementation references inform imagery only. See IMAGERY-GEOMETRY.md, the reference board in docs/imagery/ and the artwork register for exact prompts, input/output hashes and retained previous versions.
