@@ -8,7 +8,7 @@ Rights: https://github.com/auraofintelligence/aura-teacher-training/blob/main/RI
 Original: https://auraofintelligence.github.io/aura-teacher-training/documents/Aura_Teacher_Training_60_Days.pdf
 
 ## Pages
-- [Welcome](https://auraofintelligence.github.io/aura-teacher-training/index.html): Develop your own Aura, practise teaching adults and explore civic space stewardship.
+- [Welcome](https://auraofintelligence.github.io/aura-teacher-training/index.html): A fair go in the age of superintelligence: deepen personal understanding, use AI critically and ethically, and help adults build shared capability.
 - [Start here](https://auraofintelligence.github.io/aura-teacher-training/start.html): Choose an interest, a pace, accessible formats and a realistic first encounter.
 - [The sixty days](https://auraofintelligence.github.io/aura-teacher-training/course.html): Find every original reading and expanded studio guide.
 - [01 · Personal meaning](https://auraofintelligence.github.io/aura-teacher-training/movement-1.html): Life maps, changing selves, embodiment, memory, language and a first teaching encounter.

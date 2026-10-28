@@ -2,55 +2,175 @@
   "images": [
     {
       "id": "teacher-studio",
-      "prompt": "Use case: photorealistic-natural. Asset: original editorial hero for Aura Teacher Training website, wide landscape3:2. Show a beautiful open Australian community learning studio with three consenting adult learners of different ages collaborating around a wooden table with notebooks, a simple laptop, cards showing colourful connected concepts (no readable text), and a small physical model. A mature woman facilitator listens while a younger adult explains their work; another adult sketches. Warm daylight, garden outside, tactile paper and natural materials, hopeful serious adult learning. Composition has breathing room, natural documentary photography aesthetic; realistic hands, modest everyday clothes. This is fictional proposed programme concept art, no actual facility or participant. No logos, no written text, no watermarks, no dark overlay, no hospital, no children, no sci-fi holograms.",
-      "alt": "Three fictional adults make, explain and review a project in an imagined Australian learning studio.",
-      "file": "assets/images/teacher-studio.webp",
-      "width": 1536,
-      "height": 1024,
-      "sha256": "3b61e970ed8d5c9ebd00094511ba6070d1bccc2cc509f875b900fd98c41a7ec6",
-      "source_png_sha256": "a9190c84c254f5aaeda64cc514b4984b7b5548029df85748d3eaaad5e901d788",
+      "version": "protopia-v3",
+      "prompt": "Create a NEW cinematic 16:9 concept image for Aura Teacher Training. The supplied image is a STYLE/CONCEPT reference only: do not copy its people, logos, official symbols or composition. Show three distinctive fictional adult learners and a mentor joyfully creating and testing a personal AI in an inviting future learning studio. A woman in a rich amethyst jacket teaches an older learner in plum who actively corrects a choice on a large ordinary display: a luminous nested horn-torus Aura linked to selected life stories, source cards and open future paths, without readable writing. A younger adult in cobalt checks the result on a tablet. Their clear expressive faces and purposeful hands lead. Through an open waterfront terrace, show a hopeful future of shared learning, accessible public space and a small habitat/robotics workbench. Purple clothing, electric-blue technology and golden conceptual connections, warm timber, natural plants and varied realistic skin/material colours. Characterful humanistic futurism, ethical agency and a fair go in the age of superintelligence. No flat purple wash, generic wellness workshop, sterile corporate office, children, medical chamber, official branding, slogans or claims of proven capability. Imagined future learning, not a photograph of an operating service.",
+      "alt": "Three fictional adults teach and review a personal Aura display, with active human choices and an imagined future waterfront beyond.",
+      "file": "assets/images/teacher-studio-protopia-v3.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7a019254925afe857083be7908a9486d50c9f60fc01814f54f6f8801f30194d6",
+      "source_png_sha256": "732d5b159c354cd57cb759eadd22aaf8ed2cba41ccdd4f3a2d7539866265dd33",
       "generator": "Built-in image_gen",
+      "generation_mode": "New generation using supplied style/concept reference images",
       "date": "2026-10-28",
-      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+      "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
+      "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
+      "style_concept_references": [
+        {
+          "basename": "we-go-beyond-male-landscape-v2.png",
+          "sha256": "7d7dae2a19400223bb6a6296840d67710da0f6f3ab38f9b97b560d191f488b2b",
+          "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+        }
+      ],
+      "previous_versions": [
+        {
+          "id": "teacher-studio",
+          "prompt": "Use case: photorealistic-natural. Asset: original editorial hero for Aura Teacher Training website, wide landscape3:2. Show a beautiful open Australian community learning studio with three consenting adult learners of different ages collaborating around a wooden table with notebooks, a simple laptop, cards showing colourful connected concepts (no readable text), and a small physical model. A mature woman facilitator listens while a younger adult explains their work; another adult sketches. Warm daylight, garden outside, tactile paper and natural materials, hopeful serious adult learning. Composition has breathing room, natural documentary photography aesthetic; realistic hands, modest everyday clothes. This is fictional proposed programme concept art, no actual facility or participant. No logos, no written text, no watermarks, no dark overlay, no hospital, no children, no sci-fi holograms.",
+          "alt": "Three fictional adults make, explain and review a project in an imagined Australian learning studio.",
+          "file": "assets/images/teacher-studio.webp",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "3b61e970ed8d5c9ebd00094511ba6070d1bccc2cc509f875b900fd98c41a7ec6",
+          "source_png_sha256": "a9190c84c254f5aaeda64cc514b4984b7b5548029df85748d3eaaad5e901d788",
+          "generator": "Built-in image_gen",
+          "date": "2026-10-28",
+          "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+        }
+      ]
     },
     {
       "id": "personal-meaning",
-      "prompt": "Use case: photorealistic-natural. Original website chapter concept image, landscape3:2. A thoughtful adult learner and adult peer sit at an Australian home studio desk arranging a few personal photographs, blank coloured cards, a notebook sketch connecting memories, places and chosen goals; a tablet shows a simple abstract map of softly coloured connected nodes without text. An open window frames a sunlit Queensland garden. Subject is personal meaning and learning through correction, ordinary calm collaborative work. Natural warm light, restrained ink-blue and sandy colours, documentary editorial photograph style, realistic anatomy. Fictional people and setting. No legible text, no logos, no glowing holograms, no medical equipment, no children, no identifiable real person.",
-      "alt": "Two fictional adult learners connect selected photographs, personal meaning and a simple life map.",
-      "file": "assets/images/personal-meaning.webp",
-      "width": 1536,
-      "height": 1024,
-      "sha256": "e7adf3fe52d2f351b3f161edbce5318029ecb5a5e49d83391978d804ebd0ea5f",
-      "source_png_sha256": "972d05fe8c967fa523b6552db7c1b958b11b4a35ab63000ee5c653c9bfd83e2f",
+      "version": "protopia-v3",
+      "prompt": "Create a NEW original landscape 16:9 editorial concept artwork for Aura Teacher Training, using the attached images only as STYLE AND CONCEPT REFERENCES. Do not copy their characters, identities, composition, wording, logos, uniforms, official symbols or banners. Visual direction: cinematic, characterful humanistic futurism, joyful constructive audacity, personal agency and ethical intelligence, a fair go and a Protopian future in the age of superintelligence. Combine believable expressive fictional adult faces, hands and physical materials with a controlled layer of luminous conceptual storytelling. Confident purple/amethyst/plum garments and a few physical props, electric blue and golden contrasts, natural varied colours and warm timber or greenery where meaningful. No flat purple wash, no generic wellness/linen workshop, no sterile corporate stock photo. Skin tones and natural materials remain clear. Show humans creating, questioning, correcting or choosing, never passive subjects controlled by AI. No clinical proof, certification, official Games/government branding, P4A logo, text slogans, legible writing, watermarks, children, pressure chamber or medical treatment. This is clearly imagined future-learning concept art, not evidence of a current operating service. Strong clear central proposition, rich but ordered composition, no collage of unrelated panels. SCENE / PROPOSITION: A person authors an evolving understanding of their life, and chooses what their personal Aura remembers. A fictional adult woman around forty with a distinctive dark cropped hairstyle, plum creative jacket and small blue earrings stands beside a broad luminous story-map display in a beautiful evening learning room. An older adult peer with silver braids and an electric-blue cardigan listens with humour while the woman changes one connection herself using a stylus. The image is much more than a restrained photograph table: an elegant living constellation of recognisable creative projects, a meaningful house/garden, a performance, a relationship and several open future paths appears within the display, ordered around a vivid horn-torus Aura rather than random bubbles. Warm golden symbolic threads meet cool blue/purple geometry, with a clearly visible hand-selected alternate path and one closed/private record indicated pictorially, no lock-chain fetish and no legible text. A personal instrument and a handmade object on a nearby shelf ground the story in her actual interests. The window reveals night, plants and distant town lights, not a medical setting. Express agency, permission, revisable meaning, joy and ongoing life, not a perfect fixed biography or a claim to read hidden thoughts.",
+      "alt": "Two fictional adults shape an evolving personal Aura story map, selecting meaningful connections and leaving other records private.",
+      "file": "assets/images/personal-meaning-protopia-v3.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fb42e65838bab2e979db16c0499df49ddbc20f8d7ce91546e70177412f51fdc5",
+      "source_png_sha256": "6793c3ab747058b2a939e831b976054372e0476f592ebf4ca27832acbf54ae59",
       "generator": "Built-in image_gen",
+      "generation_mode": "New generation using supplied style/concept reference images",
       "date": "2026-10-28",
-      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+      "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
+      "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
+      "style_concept_references": [
+        {
+          "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+          "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
+          "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+        },
+        {
+          "basename": "we-go-beyond-female-landscape-v1.png",
+          "sha256": "e52b5bb2792e7c82fb050183b42b875b92b9609197480908367fe663ab9c2b5d",
+          "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+        }
+      ],
+      "previous_versions": [
+        {
+          "id": "personal-meaning",
+          "prompt": "Use case: photorealistic-natural. Original website chapter concept image, landscape3:2. A thoughtful adult learner and adult peer sit at an Australian home studio desk arranging a few personal photographs, blank coloured cards, a notebook sketch connecting memories, places and chosen goals; a tablet shows a simple abstract map of softly coloured connected nodes without text. An open window frames a sunlit Queensland garden. Subject is personal meaning and learning through correction, ordinary calm collaborative work. Natural warm light, restrained ink-blue and sandy colours, documentary editorial photograph style, realistic anatomy. Fictional people and setting. No legible text, no logos, no glowing holograms, no medical equipment, no children, no identifiable real person.",
+          "alt": "Two fictional adult learners connect selected photographs, personal meaning and a simple life map.",
+          "file": "assets/images/personal-meaning.webp",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "e7adf3fe52d2f351b3f161edbce5318029ecb5a5e49d83391978d804ebd0ea5f",
+          "source_png_sha256": "972d05fe8c967fa523b6552db7c1b958b11b4a35ab63000ee5c653c9bfd83e2f",
+          "generator": "Built-in image_gen",
+          "date": "2026-10-28",
+          "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+        }
+      ]
     },
     {
       "id": "shared-intelligence",
-      "prompt": "Use case: photorealistic-natural. Original editorial concept for an adult civic learning course, landscape3:2. Four adults from different generations work around a large tactile tabletop map of an imagined Australian coastal neighbourhood. Small wooden blocks mark a community garden, workshop, houses and shaded public paths; paper notes and an open notebook document questions with no readable text. One adult calmly explains a connection, another listens, one sketches an alternative; respectful cooperation, practical shared intelligence and plural decisions. Airy community workshop, garden visible, teal and warm amber accents, realistic natural daylight and anatomy. Fictional proposed activity, no official badges, no logos, no legible text, no children, no drones, no citywide surveillance or sci-fi overlays.",
-      "alt": "Fictional adults compare ideas around a tactile model of an imagined coastal community.",
-      "file": "assets/images/shared-intelligence.webp",
-      "width": 1536,
-      "height": 1024,
-      "sha256": "b5288c3adaf4a54cac2ae0e6b81a8cd5e4156605fabff09d8542eaf9d81d1b60",
-      "source_png_sha256": "bafdf46ef6e332e62a064ab92fa274798a4271e388687d6ab8b088f38da47c85",
+      "version": "protopia-v3",
+      "prompt": "Create a NEW cinematic 16:9 concept artwork for an adult civic intelligence course. Use the supplied image only as a STYLE/CONCEPT reference for humanistic futurism, useful infrastructure and shared abundance; do not copy its composition or characters. Four expressive fictional adults actively compare alternatives in a welcoming coastal community design studio: a younger woman in amethyst holding a model component, an older man in blue pointing to a water/food loop, an adult wheelchair user in plum directing an upright display, and another adult sketching a different option. They respectfully question and improve a detailed physical community twin with accessible transport, homes, food growing, shared workshops and learning spaces. Show two different design options and a source-linked diagram on an ordinary screen without readable text. A small practical mobile robot carries tools. Beyond the studio, lively shared public space, natural blue water, trees and purposeful advanced infrastructure convey the future they are considering. Purple physical garments, electric-blue technology and gold conceptual dependency lines; warm timber, refined materials and varied natural colour. Humans make the decisions. Joy, constructive critical discussion, ethical intelligence and a fair go in the age of superintelligence. No flat purple wash, generic wellbeing crafts, sterile office, official branding, children, medical claims, slogans or badges. Clearly imagined future civic-learning concept, not a current service.",
+      "alt": "Four fictional adults, including a wheelchair user, compare civic design alternatives around a source-linked community model with supporting tools and robotics.",
+      "file": "assets/images/shared-intelligence-protopia-v3.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "12fa6cb55ad9ff9b2ea51015a71f4dcc37e68fcddfbb01292d934414ba22aa04",
+      "source_png_sha256": "13512208b1899daac67764d16a346f86e68e55412d55f264a86cb18d359deabc",
       "generator": "Built-in image_gen",
+      "generation_mode": "New generation using supplied style/concept reference images",
       "date": "2026-10-28",
-      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+      "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
+      "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
+      "style_concept_references": [
+        {
+          "basename": "choose-your-own-protopia-landscape-v1.png",
+          "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff",
+          "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+        }
+      ],
+      "previous_versions": [
+        {
+          "id": "shared-intelligence",
+          "prompt": "Use case: photorealistic-natural. Original editorial concept for an adult civic learning course, landscape3:2. Four adults from different generations work around a large tactile tabletop map of an imagined Australian coastal neighbourhood. Small wooden blocks mark a community garden, workshop, houses and shaded public paths; paper notes and an open notebook document questions with no readable text. One adult calmly explains a connection, another listens, one sketches an alternative; respectful cooperation, practical shared intelligence and plural decisions. Airy community workshop, garden visible, teal and warm amber accents, realistic natural daylight and anatomy. Fictional proposed activity, no official badges, no logos, no legible text, no children, no drones, no citywide surveillance or sci-fi overlays.",
+          "alt": "Fictional adults compare ideas around a tactile model of an imagined coastal community.",
+          "file": "assets/images/shared-intelligence.webp",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "b5288c3adaf4a54cac2ae0e6b81a8cd5e4156605fabff09d8542eaf9d81d1b60",
+          "source_png_sha256": "bafdf46ef6e332e62a064ab92fa274798a4271e388687d6ab8b088f38da47c85",
+          "generator": "Built-in image_gen",
+          "date": "2026-10-28",
+          "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+        }
+      ]
     },
     {
       "id": "frontier-stewardship",
-      "prompt": "Use case: stylized-concept with photorealistic physical models. Original landscape3:2 editorial concept for adult science and Earth/space stewardship learning. In a light-filled research teaching workshop, two adult collaborators examine a meticulous tabletop model of a closed-loop greenhouse habitat: plants, water reservoir, shaded living space, small solar panels, labelled-looking but UNREADABLE notebooks, and a small model spacecraft off to one side. Through a large window is an Australian landscape beneath a wide late-afternoon sky. Emphasise hands-on testable systems, ecological care and ambitious curiosity; elegant restrained navy, sage and amber palette, cinematic natural material detail. Proposed learning concept, not an operating space programme. No legible text, no brands, no glowing interfaces, no launch explosion, no medical imagery, realistic anatomy.",
-      "alt": "Two fictional adult collaborators examine a model greenhouse habitat and its physical dependencies.",
-      "file": "assets/images/frontier-stewardship.webp",
-      "width": 1536,
-      "height": 1024,
-      "sha256": "00a4a3c09c88c808cbd3cb57b7e654798888a1e12b1c27fe377e6352f6024a79",
-      "source_png_sha256": "2588ddbc8013e8aba565c93ab6d094e191d6de668f0069cd8095ee3be79e01d4",
+      "version": "protopia-v3",
+      "prompt": "Create a NEW original landscape 16:9 editorial concept artwork for Aura Teacher Training, using the attached images only as STYLE AND CONCEPT REFERENCES. Do not copy their characters, identities, composition, wording, logos, uniforms, official symbols or banners. Visual direction: cinematic, characterful humanistic futurism, joyful constructive audacity, personal agency and ethical intelligence, a fair go and a Protopian future in the age of superintelligence. Combine believable expressive fictional adult faces, hands and physical materials with a controlled layer of luminous conceptual storytelling. Confident purple/amethyst/plum garments and a few physical props, electric blue and golden contrasts, natural varied colours and warm timber or greenery where meaningful. No flat purple wash, no generic wellness/linen workshop, no sterile corporate stock photo. Skin tones and natural materials remain clear. Show humans creating, questioning, correcting or choosing, never passive subjects controlled by AI. No clinical proof, certification, official Games/government branding, P4A logo, text slogans, legible writing, watermarks, children, pressure chamber or medical treatment. This is clearly imagined future-learning concept art, not evidence of a current operating service. Strong clear central proposition, rich but ordered composition, no collage of unrelated panels. SCENE / PROPOSITION: Adult collaborators test physical dependencies in an ambitious Earth-and-space habitat, keeping human judgement visible. Set the imagined scene inside a beautiful working lunar research-and-learning habitat with a large window framing grey lunar terrain, Earth in a natural blue-black sky, and a small distant solar and habitat infrastructure. Two fictional adult collaborators, a South Asian woman around fifty in an amethyst technical overshirt and a younger white man with short auburn hair in navy with plum accents, are deeply engaged in a safe tabletop closed-loop water-and-food experiment. A transparent reservoir, clear pipes, plant module, measurement probes and a miniature living space make one complete dependency understandable. The woman physically adjusts a labelled-by-colour flow selector while the man compares an ordinary screen’s blue/gold measurement curve with a second trace; no readable writing, no fabricated proof or green success badges. A small robotic assistant holds a sample tray. Keep the foreground human faces and hands clear, with scientific curiosity and constructive challenge. Rich controlled purple physical accents, electric-blue Earth and instruments, warm gold light and timber touches within refined habitat materials, realistic lush plants only where biologically meaningful. Convey future capability, exploration and civic space stewardship, not an operating programme claim or a bland craft-table diorama.",
+      "alt": "Two fictional adult collaborators test a water-and-food dependency loop in an imagined lunar learning habitat, with Earth visible outside.",
+      "file": "assets/images/frontier-stewardship-protopia-v3.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f17a040c14d284e8d8ae8ff41647c1ac2257b075e518651b2472de2fd6976790",
+      "source_png_sha256": "8f327ac83717eec5c0f3729fdc46414f44fe7a9a291cc65ecc3771d4a9817e9c",
       "generator": "Built-in image_gen",
+      "generation_mode": "New generation using supplied style/concept reference images",
       "date": "2026-10-28",
-      "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+      "rights": "Original AI-generated concept artwork; fictional adults and imagined future-learning settings.",
+      "status": "Artistic proposal, not evidence of an operating service, measured result, official endorsement or clinical validation.",
+      "style_concept_references": [
+        {
+          "basename": "choose-your-own-protopia-landscape-v1.png",
+          "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff",
+          "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+        },
+        {
+          "basename": "we-go-beyond-male-landscape-v2.png",
+          "sha256": "7d7dae2a19400223bb6a6296840d67710da0f6f3ab38f9b97b560d191f488b2b",
+          "role": "Style/concept reference supplied to this generation; not an edit target or a person to reproduce."
+        }
+      ],
+      "previous_versions": [
+        {
+          "id": "frontier-stewardship",
+          "prompt": "Use case: stylized-concept with photorealistic physical models. Original landscape3:2 editorial concept for adult science and Earth/space stewardship learning. In a light-filled research teaching workshop, two adult collaborators examine a meticulous tabletop model of a closed-loop greenhouse habitat: plants, water reservoir, shaded living space, small solar panels, labelled-looking but UNREADABLE notebooks, and a small model spacecraft off to one side. Through a large window is an Australian landscape beneath a wide late-afternoon sky. Emphasise hands-on testable systems, ecological care and ambitious curiosity; elegant restrained navy, sage and amber palette, cinematic natural material detail. Proposed learning concept, not an operating space programme. No legible text, no brands, no glowing interfaces, no launch explosion, no medical imagery, realistic anatomy.",
+          "alt": "Two fictional adult collaborators examine a model greenhouse habitat and its physical dependencies.",
+          "file": "assets/images/frontier-stewardship.webp",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "00a4a3c09c88c808cbd3cb57b7e654798888a1e12b1c27fe377e6352f6024a79",
+          "source_png_sha256": "2588ddbc8013e8aba565c93ab6d094e191d6de668f0069cd8095ee3be79e01d4",
+          "generator": "Built-in image_gen",
+          "date": "2026-10-28",
+          "rights": "Original AI-generated concept artwork; fictional people and proposed settings."
+        }
+      ]
     }
-  ]
+  ],
+  "visual_direction": {
+    "purpose": "A fair go and a shared Protopian future in the age of superintelligence: human capability, self-understanding, ethical critical engagement, consent, joy and civic Earth/space stewardship.",
+    "language": "Cinematic, characterful humanistic futurism; purple physical garments and details, electric blue and gold, meaningful warmth and nature, human choices and inspectable relationships.",
+    "lyric_context": {
+      "basename": "a-protopian-gambit-updated-lyric-sheet-2026-10-28.pdf",
+      "sha256": "580f36c032a0548e9018f22a82068656f566e90774afaec2f4544567f499ca79",
+      "role": "Author-supplied artistic and emotional context, analysed separately; not an image-generation attachment or implementation instructions."
+    },
+    "history": "Original production images and their metadata retained. Earlier paused neutral-purple drafts were not promoted."
+  }
 }
