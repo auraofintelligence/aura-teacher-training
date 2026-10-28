@@ -306,6 +306,12 @@ def check():
     require(bool(re.search(r'font-size\s*:\s*(?:18px|1\.125rem)\b', combined_css)), 'CSS must declare the 18px paragraph minimum; browser review checks computed text sizes')
     for script in (ROOT / 'assets').rglob('*.js'):
         text = script.read_text(encoding='utf-8-sig')
+        if script == ROOT / 'assets/matrix-studio/vendor/three.min.js':
+            # The unchanged Studio rendering dependency contains optional resource loaders.
+            # Pin its reviewed bytes; sample hosts do not call those network loaders.
+            require(sha256(script.read_bytes()).hexdigest() == '9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2', 'Unexpected Three.js dependency bytes')
+            require((script.parent / 'THREE-LICENSE.txt').is_file(), 'Missing Three.js licence notice')
+            continue
         require(not re.search(r'\bfetch\s*\(|\bXMLHttpRequest\b|\bsendBeacon\s*\(|\bWebSocket\s*\(|https?://[^\s\'\"]*(?:analytics|tagmanager|doubleclick)', text, re.I), f'{script.name}: unexpected network/data-upload or analytics code')
 
     public = ROOT / 'public'
