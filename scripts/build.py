@@ -1,4 +1,4 @@
-from visual_examples import enhance_visual_document
+from basic_aura import enhance_basic_aura
 from pathlib import Path
 from html import escape
 import hashlib, json, re, shutil
@@ -85,7 +85,7 @@ def shell(r,title,intro,body,image=None,toc=None,eyebrow=None,actions='',notfoun
             before=next(x for x in ROUTES if x['id']==('course' if r['day']==1 else f'day-{r["day"]-1:02d}'))
             after=next(x for x in ROUTES if x['id']==('portfolio' if r['day']==60 else f'day-{r["day"]+1:02d}'))
         turn='<nav class="wrap page-turn" aria-label="Previous and next pages">'+link(before['id']+'.html','<span>← Previous</span><strong>'+esc(before['label'])+'</strong>')+link(after['id']+'.html','<span>Next →</span><strong>'+esc(after['label'])+'</strong>')+'</nav>'
-    return enhance_visual_document(r['id'],head+header(r['id'])+'<main id="main">'+opening+body+'</main>'+turn+footer()+'</body></html>\n')
+    return enhance_basic_aura(r['id'],head+header(r['id'])+'<main id="main">'+opening+body+'</main>'+turn+footer()+'</body></html>\n')
 
 def lesson_list(days,search=False):
     top=''
